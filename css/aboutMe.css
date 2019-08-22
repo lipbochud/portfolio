@@ -10,7 +10,7 @@
                         
 .aboutme {
   width               : 100%;
-  min-width           : 1920px;
+  min-width           : 1440px;
   height              : 100vh;
   min-height          : 1633px;
   position            : relative;
@@ -42,7 +42,7 @@ div {
   width               : 1920px;
   position            : absolute;
   margin              : 0;
-  left                : 0px;
+  left                : -228px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -54,7 +54,7 @@ div {
   width               : 1920px;
   position            : absolute;
   margin              : 0;
-  left                : 0px;
+  left                : -240px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -66,7 +66,7 @@ div {
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 498px;
+  left                : 258px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -83,7 +83,7 @@ div {
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 896px;
+  left                : 656px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -100,7 +100,7 @@ div {
   width               : 331px;
   position            : absolute;
   margin              : 0;
-  left                : 1182px;
+  left                : 942px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -112,7 +112,7 @@ div {
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 498px;
+  left                : 258px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -129,7 +129,7 @@ div {
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 846px;
+  left                : 606px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -146,7 +146,7 @@ div {
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 498px;
+  left                : 258px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -163,7 +163,7 @@ div {
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 492px;
+  left                : 252px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -180,7 +180,7 @@ div {
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 498px;
+  left                : 258px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -197,7 +197,7 @@ div {
   width               : 196px;
   position            : absolute;
   margin              : 0;
-  left                : 862px;
+  left                : 634px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -209,19 +209,19 @@ div {
   width               : 202px;
   position            : absolute;
   margin              : 0;
-  left                : 1130px;
+  left                : 902px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
 .aboutme .rectangle1 {
   background-color    : rgba(71, 181, 250, 1.0);
-  top                 : 310px;
+  top                 : 311px;
   height              : 632px;
   width               : 948px;
   position            : absolute;
   margin              : 0;
-  left                : 1008px;
+  left                : 768px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -233,7 +233,7 @@ div {
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 436px;
+  left                : 208px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -250,7 +250,7 @@ div {
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 681px;
+  left                : 453px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -267,7 +267,7 @@ div {
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 1168px;
+  left                : 940px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -284,7 +284,7 @@ div {
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 1368px;
+  left                : 1140px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -296,12 +296,12 @@ div {
 }
 .aboutme .iu2019mabilingualliv {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 309px;
+  top                 : 310px;
   height              : auto;
   width               : 547px;
   position            : absolute;
   margin              : 0;
-  left                : 437px;
+  left                : 208px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -313,24 +313,24 @@ div {
 }
 .aboutme .screenshot20190821at12008pm {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 329px;
+  top                 : 331px;
   height              : 593px;
   width               : 459px;
   position            : absolute;
   margin              : 0;
-  left                : 1023px;
+  left                : 783px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
 .aboutme .himynameisfelip {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 154px;
+  top                 : 155px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 440px;
+  left                : 211px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);

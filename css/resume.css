@@ -122,14 +122,14 @@ div {
   text-align          : center;
   line-height         : 33.0px;
 }
-.resume .contact {
+.resume .linkedin {
   background-color    : rgba(255,255,255,0.0);
   top                 : 39px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 1124px;
+  left                : 1128px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
