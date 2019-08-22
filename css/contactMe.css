@@ -8,11 +8,11 @@
                           src: url('../fonts/OpenSans-Regular.ttf') format("truetype");
                         }
                         
-.cheffigura {
+.contactme {
   width               : 100%;
   min-width           : 1440px;
   height              : 100vh;
-  min-height          : 11892px;
+  min-height          : 1419px;
   position            : relative;
   overflow            : hidden;
   margin              : 0px;
@@ -35,19 +35,7 @@ div {
 div {
   -webkit-text-size-adjust: none;
 }
-.cheffigura .logo {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 11340px;
-  height              : 95px;
-  width               : 93px;
-  position            : absolute;
-  margin              : 0;
-  left                : 379px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.cheffigura .navbar {
+.contactme .navbar {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 0px;
   height              : 112px;
@@ -59,89 +47,9 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.cheffigura .glassesfelipebochud {
+.contactme .footer {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 31px;
-  height              : 51px;
-  width               : 140px;
-  position            : absolute;
-  margin              : 0;
-  left                : 650px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.cheffigura .portfolio {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 39px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 196px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Avenir-Light", Helvetica, Arial, serif;
-  font-size           : 24.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 33.0px;
-}
-.cheffigura .resume {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 39px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 441px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Avenir-Light", Helvetica, Arial, serif;
-  font-size           : 24.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 33.0px;
-}
-.cheffigura .aboutme {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 39px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 914px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Avenir-Light", Helvetica, Arial, serif;
-  font-size           : 24.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 33.0px;
-}
-.cheffigura .linkedin {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 39px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 1128px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Avenir-Light", Helvetica, Arial, serif;
-  font-size           : 24.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 33.0px;
-}
-.cheffigura .footer {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 11612px;
+  top                 : 1139px;
   height              : 280px;
   width               : 1440px;
   position            : absolute;
@@ -151,7 +59,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.cheffigura .footer .footer1 {
+.contactme .footer .footer1 {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 0px;
   height              : 280px;
@@ -163,7 +71,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.cheffigura .footer .social {
+.contactme .footer .social1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 35px;
   height              : auto;
@@ -180,7 +88,7 @@ div {
   text-align          : center;
   line-height         : 42.0px;
 }
-.cheffigura .footer .contact {
+.contactme .footer .contact {
   background-color    : rgba(255,255,255,0.0);
   top                 : 35px;
   height              : auto;
@@ -197,7 +105,7 @@ div {
   text-align          : center;
   line-height         : 42.0px;
 }
-.cheffigura .footer .glassesfelipebochud1 {
+.contactme .footer .glassesfelipebochud1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 49px;
   height              : 189px;
@@ -209,7 +117,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.cheffigura .footer .linkedin1 {
+.contactme .footer .linkedin2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 90px;
   height              : auto;
@@ -226,7 +134,7 @@ div {
   text-align          : center;
   line-height         : 29.0px;
 }
-.cheffigura .footer .lipbochudgmailcom {
+.contactme .footer .lipbochudgmailcom1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 90px;
   height              : auto;
@@ -243,7 +151,7 @@ div {
   text-align          : center;
   line-height         : 29.0px;
 }
-.cheffigura .footer .behance {
+.contactme .footer .behance1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 132px;
   height              : auto;
@@ -260,7 +168,7 @@ div {
   text-align          : center;
   line-height         : 29.0px;
 }
-.cheffigura .footer .dribbble {
+.contactme .footer .dribbble1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 174px;
   height              : auto;
@@ -277,7 +185,7 @@ div {
   text-align          : center;
   line-height         : 29.0px;
 }
-.cheffigura .footer .twitter {
+.contactme .footer .twitter1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 216px;
   height              : auto;
@@ -294,46 +202,309 @@ div {
   text-align          : center;
   line-height         : 29.0px;
 }
-.cheffigura .cheffiguraproject {
+.contactme .glassesfelipebochud {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 112px;
-  height              : 11198px;
-  width               : 1045px;
-  position            : absolute;
-  margin              : 0;
-  left                : 197px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.cheffigura .toolsused {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 11234px;
-  height              : auto;
-  width               : auto;
+  top                 : 0px;
+  height              : 112px;
+  width               : 196px;
   position            : absolute;
   margin              : 0;
   left                : 622px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
-  font-family         : "OpenSans-Regular", Helvetica, Arial, serif;
-  font-size           : 40.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 55.0px;
 }
-.cheffigura .screenshot20190821at60532pm {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 11318px;
-  height              : 140px;
-  width               : 621px;
+.contactme .rectangle {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : -1px;
+  height              : 112px;
+  width               : 180px;
   position            : absolute;
   margin              : 0;
-  left                : 472px;
+  left                : 1094px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+}
+.contactme .portfolio {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 196px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Avenir-Light", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.contactme .resume {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 441px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Avenir-Light", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.contactme .aboutme {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 914px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Avenir-Light", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.contactme .linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1128px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Avenir-Light", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.contactme .currentat {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 151px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 197px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Ayuthaya", Helvetica, Arial, serif;
+  font-size           : 40.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.contactme .currentat .span1 {
+  line-height         : 56.0px;
+}
+.contactme .currentat .span2 {
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  line-height         : 27.0px;
+}
+.contactme .sanfranciscobayar {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 315px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 196px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Ayuthaya", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.contactme .sanfranciscobayar .span1 {
+  
+}
+.contactme .sanfranciscobayar .span2 {
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+}
+.contactme .a16505576733 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 292px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 631px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Ayuthaya", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.contactme .a16505576733 .span1 {
+  
+}
+.contactme .a16505576733 .span2 {
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+}
+.contactme .linkedin1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 283px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1079px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Ayuthaya", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.contactme .behance {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 337px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1085px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Ayuthaya", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.contactme .dribbble {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 391px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1079px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Ayuthaya", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.contactme .twitter {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 445px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1085px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Ayuthaya", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.contactme .lipbochudgmailcom {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 346px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 601px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Ayuthaya", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 27.0px;
+}
+.contactme .lipbochudgmailcom .span1 {
+  
+}
+.contactme .lipbochudgmailcom .span2 {
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+}
+.contactme .contactinfo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 151px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 576px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Ayuthaya", Helvetica, Arial, serif;
+  font-size           : 40.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.contactme .contactinfo .span1 {
+  line-height         : 56.0px;
+}
+.contactme .contactinfo .span2 {
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  line-height         : 27.0px;
+}
+.contactme .social {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 153px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1055px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Ayuthaya", Helvetica, Arial, serif;
+  font-size           : 40.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.contactme .social .span1 {
+  line-height         : 56.0px;
+}
+.contactme .social .span2 {
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  line-height         : 27.0px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
