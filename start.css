@@ -15,7 +15,7 @@
   min-height          : 1208px;
   position            : relative;
   overflow            : hidden;
-  margin              : -300px;
+  margin              : 0px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color    : rgba(71, 181, 250, 1.0);
@@ -39,7 +39,7 @@ div {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 0px;
   height              : 112px;
-  width               : 100%;
+  width               : 1440px;
   position            : absolute;
   margin              : 0;
   left                : 0px;
@@ -294,7 +294,7 @@ div {
   transform           : rotate(0deg);
 }
 .start .footer {
-  background-color    : rgba(255,255,255,0.0);
+  background-color    : rgba(255, 255, 255, 1.0);
   top                 : 1034px;
   height              : 174px;
   width               : 1440px;
@@ -305,21 +305,9 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.start .footer .footer1 {
-  background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 0px;
-  height              : 174px;
-  width               : 1440px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.start .footer .social {
+.start .social {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 34px;
+  top                 : 1068px;
   height              : auto;
   width               : auto;
   position            : absolute;
@@ -334,9 +322,9 @@ div {
   text-align          : center;
   line-height         : 42.0px;
 }
-.start .footer .contact {
+.start .contact {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 38px;
+  top                 : 1072px;
   height              : auto;
   width               : auto;
   position            : absolute;
@@ -351,9 +339,9 @@ div {
   text-align          : center;
   line-height         : 42.0px;
 }
-.start .footer .glassesfelipebochud1 {
+.start .glassesfelipebochud1 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
+  top                 : 1034px;
   height              : 160px;
   width               : 280px;
   position            : absolute;
@@ -363,9 +351,9 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.start .footer .linkedin1 {
+.start .linkedin1 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 88px;
+  top                 : 1122px;
   height              : auto;
   width               : auto;
   position            : absolute;
@@ -380,9 +368,9 @@ div {
   text-align          : center;
   line-height         : 22.0px;
 }
-.start .footer .lipbochudgmailcom {
+.start .lipbochudgmailcom {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 93px;
+  top                 : 1127px;
   height              : auto;
   width               : auto;
   position            : absolute;
@@ -397,9 +385,9 @@ div {
   text-align          : center;
   line-height         : 22.0px;
 }
-.start .footer .behance {
+.start .behance {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 88px;
+  top                 : 1122px;
   height              : auto;
   width               : auto;
   position            : absolute;
@@ -414,9 +402,9 @@ div {
   text-align          : center;
   line-height         : 22.0px;
 }
-.start .footer .dribbble {
+.start .dribbble {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 89px;
+  top                 : 1123px;
   height              : auto;
   width               : auto;
   position            : absolute;

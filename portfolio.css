@@ -244,7 +244,7 @@ div {
   opacity             : 1;
 }
 .portfolio .footer {
-  background-color    : rgba(255,255,255,0.0);
+  background-color    : rgba(255, 255, 255, 1.0);
   top                 : 1585px;
   height              : 174px;
   width               : 1440px;
@@ -255,26 +255,14 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.portfolio .footer .footer1 {
-  background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 0px;
-  height              : 174px;
-  width               : 1440px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.portfolio .footer .social {
+.portfolio .social {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 34px;
+  top                 : 1619px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 258px;
+  left                : 259px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -284,14 +272,14 @@ div {
   text-align          : center;
   line-height         : 42.0px;
 }
-.portfolio .footer .contact {
+.portfolio .contact {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 38px;
+  top                 : 1623px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 656px;
+  left                : 657px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -301,43 +289,26 @@ div {
   text-align          : center;
   line-height         : 42.0px;
 }
-.portfolio .footer .glassesfelipebochud1 {
+.portfolio .glassesfelipebochud1 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
+  top                 : 1585px;
   height              : 160px;
   width               : 280px;
   position            : absolute;
   margin              : 0;
-  left                : 1002px;
+  left                : 1003px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.portfolio .footer .linkedin1 {
+.portfolio .linkedin1 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 88px;
+  top                 : 1673px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 196px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Avenir-Book", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 22.0px;
-}
-.portfolio .footer .lipbochudgmailcom {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 93px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 641px;
+  left                : 197px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -347,14 +318,14 @@ div {
   text-align          : center;
   line-height         : 22.0px;
 }
-.portfolio .footer .behance {
+.portfolio .lipbochudgmailcom {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 88px;
+  top                 : 1678px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 290px;
+  left                : 642px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -364,14 +335,31 @@ div {
   text-align          : center;
   line-height         : 22.0px;
 }
-.portfolio .footer .dribbble {
+.portfolio .behance {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 89px;
+  top                 : 1673px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 389px;
+  left                : 291px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.portfolio .dribbble {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1674px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 390px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);

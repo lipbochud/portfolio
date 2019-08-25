@@ -206,7 +206,7 @@ div {
   line-height         : 27.0px;
 }
 .aboutme .footer {
-  background-color    : rgba(255,255,255,0.0);
+  background-color    : rgba(255, 255, 255, 1.0);
   top                 : 1318px;
   height              : 174px;
   width               : 1440px;
@@ -217,21 +217,9 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.aboutme .footer .footer1 {
-  background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 0px;
-  height              : 174px;
-  width               : 1440px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.aboutme .footer .social {
+.aboutme .social {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 34px;
+  top                 : 1352px;
   height              : auto;
   width               : auto;
   position            : absolute;
@@ -246,9 +234,9 @@ div {
   text-align          : center;
   line-height         : 42.0px;
 }
-.aboutme .footer .contact {
+.aboutme .contact {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 38px;
+  top                 : 1356px;
   height              : auto;
   width               : auto;
   position            : absolute;
@@ -263,9 +251,9 @@ div {
   text-align          : center;
   line-height         : 42.0px;
 }
-.aboutme .footer .glassesfelipebochud1 {
+.aboutme .glassesfelipebochud1 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
+  top                 : 1318px;
   height              : 160px;
   width               : 280px;
   position            : absolute;
@@ -275,9 +263,9 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.aboutme .footer .linkedin1 {
+.aboutme .linkedin1 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 88px;
+  top                 : 1406px;
   height              : auto;
   width               : auto;
   position            : absolute;
@@ -292,9 +280,9 @@ div {
   text-align          : center;
   line-height         : 22.0px;
 }
-.aboutme .footer .lipbochudgmailcom {
+.aboutme .lipbochudgmailcom {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 93px;
+  top                 : 1411px;
   height              : auto;
   width               : auto;
   position            : absolute;
@@ -309,9 +297,9 @@ div {
   text-align          : center;
   line-height         : 22.0px;
 }
-.aboutme .footer .behance {
+.aboutme .behance {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 88px;
+  top                 : 1406px;
   height              : auto;
   width               : auto;
   position            : absolute;
@@ -326,9 +314,9 @@ div {
   text-align          : center;
   line-height         : 22.0px;
 }
-.aboutme .footer .dribbble {
+.aboutme .dribbble {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 89px;
+  top                 : 1407px;
   height              : auto;
   width               : auto;
   position            : absolute;

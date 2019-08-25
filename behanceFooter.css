@@ -8,11 +8,11 @@
                           src: url('../fonts/OpenSans-Regular.ttf') format("truetype");
                         }
                         
-.cloverbakeryandcafe {
+.behancefooter {
   width               : 100%;
   min-width           : 1440px;
   height              : 100vh;
-  min-height          : 9596px;
+  min-height          : 1419px;
   position            : relative;
   overflow            : hidden;
   margin              : 0px;
@@ -35,7 +35,7 @@ div {
 div {
   -webkit-text-size-adjust: none;
 }
-.cloverbakeryandcafe .navbar {
+.behancefooter .navbar {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 0px;
   height              : 112px;
@@ -47,19 +47,31 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.cloverbakeryandcafe .glassesfelipebochud {
+.behancefooter .glassesfelipebochud {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 31px;
-  height              : 51px;
-  width               : 140px;
+  top                 : 0px;
+  height              : 112px;
+  width               : 196px;
   position            : absolute;
   margin              : 0;
-  left                : 650px;
+  left                : 622px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.cloverbakeryandcafe .portfolio {
+.behancefooter .rectangle {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 0px;
+  height              : 112px;
+  width               : 180px;
+  position            : absolute;
+  margin              : 0;
+  left                : 399px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.behancefooter .portfolio {
   background-color    : rgba(255,255,255,0.0);
   top                 : 39px;
   height              : auto;
@@ -76,7 +88,7 @@ div {
   text-align          : center;
   line-height         : 33.0px;
 }
-.cloverbakeryandcafe .resume {
+.behancefooter .resume {
   background-color    : rgba(255,255,255,0.0);
   top                 : 39px;
   height              : auto;
@@ -93,7 +105,7 @@ div {
   text-align          : center;
   line-height         : 33.0px;
 }
-.cloverbakeryandcafe .aboutme {
+.behancefooter .aboutme {
   background-color    : rgba(255,255,255,0.0);
   top                 : 39px;
   height              : auto;
@@ -110,7 +122,7 @@ div {
   text-align          : center;
   line-height         : 33.0px;
 }
-.cloverbakeryandcafe .linkedin {
+.behancefooter .linkedin {
   background-color    : rgba(255,255,255,0.0);
   top                 : 39px;
   height              : auto;
@@ -127,21 +139,9 @@ div {
   text-align          : center;
   line-height         : 33.0px;
 }
-.cloverbakeryandcafe .cloverbakeryandcafeprojectwebsite {
+.behancefooter .footer {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 112px;
-  height              : 9175px;
-  width               : 1155px;
-  position            : absolute;
-  margin              : 0;
-  left                : 142px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.cloverbakeryandcafe .footer {
-  background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 9422px;
+  top                 : 1245px;
   height              : 174px;
   width               : 1440px;
   position            : absolute;
@@ -151,9 +151,21 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.cloverbakeryandcafe .social {
+.behancefooter .footer .footer1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 174px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.behancefooter .footer .social {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 9456px;
+  top                 : 34px;
   height              : auto;
   width               : auto;
   position            : absolute;
@@ -168,9 +180,9 @@ div {
   text-align          : center;
   line-height         : 42.0px;
 }
-.cloverbakeryandcafe .contact {
+.behancefooter .footer .contact {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 9460px;
+  top                 : 38px;
   height              : auto;
   width               : auto;
   position            : absolute;
@@ -185,9 +197,9 @@ div {
   text-align          : center;
   line-height         : 42.0px;
 }
-.cloverbakeryandcafe .glassesfelipebochud1 {
+.behancefooter .footer .glassesfelipebochud1 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 9422px;
+  top                 : 0px;
   height              : 160px;
   width               : 280px;
   position            : absolute;
@@ -197,9 +209,9 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.cloverbakeryandcafe .linkedin1 {
+.behancefooter .footer .linkedin1 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 9510px;
+  top                 : 88px;
   height              : auto;
   width               : auto;
   position            : absolute;
@@ -214,9 +226,9 @@ div {
   text-align          : center;
   line-height         : 22.0px;
 }
-.cloverbakeryandcafe .lipbochudgmailcom {
+.behancefooter .footer .lipbochudgmailcom {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 9515px;
+  top                 : 93px;
   height              : auto;
   width               : auto;
   position            : absolute;
@@ -231,9 +243,9 @@ div {
   text-align          : center;
   line-height         : 22.0px;
 }
-.cloverbakeryandcafe .behance {
+.behancefooter .footer .behance {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 9510px;
+  top                 : 88px;
   height              : auto;
   width               : auto;
   position            : absolute;
@@ -248,9 +260,9 @@ div {
   text-align          : center;
   line-height         : 22.0px;
 }
-.cloverbakeryandcafe .dribbble {
+.behancefooter .footer .dribbble {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 9511px;
+  top                 : 89px;
   height              : auto;
   width               : auto;
   position            : absolute;

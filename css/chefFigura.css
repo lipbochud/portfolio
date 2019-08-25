@@ -181,7 +181,7 @@ div {
   transform           : rotate(0deg);
 }
 .cheffigura .footer {
-  background-color    : rgba(255,255,255,0.0);
+  background-color    : rgba(255, 255, 255, 1.0);
   top                 : 11718px;
   height              : 174px;
   width               : 1440px;
@@ -192,21 +192,9 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.cheffigura .footer .footer1 {
-  background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 0px;
-  height              : 174px;
-  width               : 1440px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.cheffigura .footer .social {
+.cheffigura .social {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 34px;
+  top                 : 11752px;
   height              : auto;
   width               : auto;
   position            : absolute;
@@ -221,9 +209,9 @@ div {
   text-align          : center;
   line-height         : 42.0px;
 }
-.cheffigura .footer .contact {
+.cheffigura .contact {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 38px;
+  top                 : 11756px;
   height              : auto;
   width               : auto;
   position            : absolute;
@@ -238,9 +226,9 @@ div {
   text-align          : center;
   line-height         : 42.0px;
 }
-.cheffigura .footer .glassesfelipebochud1 {
+.cheffigura .glassesfelipebochud1 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
+  top                 : 11718px;
   height              : 160px;
   width               : 280px;
   position            : absolute;
@@ -250,9 +238,9 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.cheffigura .footer .linkedin1 {
+.cheffigura .linkedin1 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 88px;
+  top                 : 11806px;
   height              : auto;
   width               : auto;
   position            : absolute;
@@ -267,9 +255,9 @@ div {
   text-align          : center;
   line-height         : 22.0px;
 }
-.cheffigura .footer .lipbochudgmailcom {
+.cheffigura .lipbochudgmailcom {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 93px;
+  top                 : 11811px;
   height              : auto;
   width               : auto;
   position            : absolute;
@@ -284,9 +272,9 @@ div {
   text-align          : center;
   line-height         : 22.0px;
 }
-.cheffigura .footer .behance {
+.cheffigura .behance {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 88px;
+  top                 : 11806px;
   height              : auto;
   width               : auto;
   position            : absolute;
@@ -301,9 +289,9 @@ div {
   text-align          : center;
   line-height         : 22.0px;
 }
-.cheffigura .footer .dribbble {
+.cheffigura .dribbble {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 89px;
+  top                 : 11807px;
   height              : auto;
   width               : auto;
   position            : absolute;

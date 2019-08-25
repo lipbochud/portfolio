@@ -140,7 +140,7 @@ div {
   transform           : rotate(0deg);
 }
 .stanfordcreditunion .footer {
-  background-color    : rgba(255,255,255,0.0);
+  background-color    : rgba(255, 255, 255, 1.0);
   top                 : 6595px;
   height              : 174px;
   width               : 1440px;
@@ -151,21 +151,9 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.stanfordcreditunion .footer .footer1 {
-  background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 0px;
-  height              : 174px;
-  width               : 1440px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.stanfordcreditunion .footer .social {
+.stanfordcreditunion .social {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 34px;
+  top                 : 6629px;
   height              : auto;
   width               : auto;
   position            : absolute;
@@ -180,9 +168,9 @@ div {
   text-align          : center;
   line-height         : 42.0px;
 }
-.stanfordcreditunion .footer .contact {
+.stanfordcreditunion .contact {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 38px;
+  top                 : 6633px;
   height              : auto;
   width               : auto;
   position            : absolute;
@@ -197,9 +185,9 @@ div {
   text-align          : center;
   line-height         : 42.0px;
 }
-.stanfordcreditunion .footer .glassesfelipebochud1 {
+.stanfordcreditunion .glassesfelipebochud1 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
+  top                 : 6595px;
   height              : 160px;
   width               : 280px;
   position            : absolute;
@@ -209,9 +197,9 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.stanfordcreditunion .footer .linkedin1 {
+.stanfordcreditunion .linkedin1 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 88px;
+  top                 : 6683px;
   height              : auto;
   width               : auto;
   position            : absolute;
@@ -226,9 +214,9 @@ div {
   text-align          : center;
   line-height         : 22.0px;
 }
-.stanfordcreditunion .footer .lipbochudgmailcom {
+.stanfordcreditunion .lipbochudgmailcom {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 93px;
+  top                 : 6688px;
   height              : auto;
   width               : auto;
   position            : absolute;
@@ -243,9 +231,9 @@ div {
   text-align          : center;
   line-height         : 22.0px;
 }
-.stanfordcreditunion .footer .behance {
+.stanfordcreditunion .behance {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 88px;
+  top                 : 6683px;
   height              : auto;
   width               : auto;
   position            : absolute;
@@ -260,9 +248,9 @@ div {
   text-align          : center;
   line-height         : 22.0px;
 }
-.stanfordcreditunion .footer .dribbble {
+.stanfordcreditunion .dribbble {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 89px;
+  top                 : 6684px;
   height              : auto;
   width               : auto;
   position            : absolute;
