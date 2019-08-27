@@ -12,7 +12,7 @@
   width               : 100%;
   min-width           : 1440px;
   height              : 100vh;
-  min-height          : 9596px;
+  min-height          : 10070px;
   position            : relative;
   overflow            : hidden;
   margin              : 0px;
@@ -127,38 +127,26 @@ div {
   text-align          : center;
   line-height         : 33.0px;
 }
-.cloverbakeryandcafe .cloverbakeryandcafeprojectwebsite {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 112px;
-  height              : 9175px;
-  width               : 1155px;
-  position            : absolute;
-  margin              : 0;
-  left                : 142px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
 .cloverbakeryandcafe .footer {
   background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 9422px;
+  top                 : 9896px;
   height              : 174px;
   width               : 1440px;
   position            : absolute;
   margin              : 0;
-  left                : 0px;
+  left                : 1px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
 .cloverbakeryandcafe .social {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 9456px;
+  top                 : 9930px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 258px;
+  left                : 259px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -170,12 +158,12 @@ div {
 }
 .cloverbakeryandcafe .contact {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 9460px;
+  top                 : 9930px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 656px;
+  left                : 657px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -187,24 +175,24 @@ div {
 }
 .cloverbakeryandcafe .glassesfelipebochud1 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 9422px;
+  top                 : 9896px;
   height              : 160px;
   width               : 280px;
   position            : absolute;
   margin              : 0;
-  left                : 1002px;
+  left                : 1003px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
 .cloverbakeryandcafe .linkedin1 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 9510px;
+  top                 : 9984px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 196px;
+  left                : 197px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -216,12 +204,12 @@ div {
 }
 .cloverbakeryandcafe .lipbochudgmailcom {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 9515px;
+  top                 : 9983px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 641px;
+  left                : 638px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -233,12 +221,12 @@ div {
 }
 .cloverbakeryandcafe .behance {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 9510px;
+  top                 : 9984px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 290px;
+  left                : 291px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -250,12 +238,12 @@ div {
 }
 .cloverbakeryandcafe .dribbble {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 9511px;
+  top                 : 9985px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 389px;
+  left                : 390px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -264,6 +252,18 @@ div {
   color               : rgba(0, 0, 0, 1.0);
   text-align          : center;
   line-height         : 22.0px;
+}
+.cloverbakeryandcafe .cloverbakeryandcafeprojecfinalwebsite {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 152px;
+  height              : 9596px;
+  width               : 1141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 150px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
