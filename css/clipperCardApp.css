@@ -243,12 +243,12 @@ div {
 }
 .clippercardapp .clippercardportfolio {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 181px;
-  height              : 8927px;
-  width               : 1045px;
+  top                 : 168px;
+  height              : 8970px;
+  width               : 1050px;
   position            : absolute;
   margin              : 0;
-  left                : 197px;
+  left                : 195px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
