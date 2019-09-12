@@ -12,7 +12,7 @@
   width               : 100%;
   min-width           : 1440px;
   height              : 100vh;
-  min-height          : 1759px;
+  min-height          : 2409px;
   position            : relative;
   overflow            : hidden;
   margin              : 0px;
@@ -47,14 +47,14 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.portfolio .glassesfelipebochud {
+.portfolio .glassesright150 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 31px;
+  top                 : 30px;
   height              : 51px;
-  width               : 140px;
+  width               : 139px;
   position            : absolute;
   margin              : 0;
-  left                : 650px;
+  left                : 651px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -141,12 +141,12 @@ div {
 }
 .portfolio .futureprojectswill {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 1447px;
+  top                 : 1929px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 300px;
+  left                : 291px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -158,36 +158,36 @@ div {
 }
 .portfolio .stanfordprojectcover {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 601px;
+  top                 : 975px;
   height              : 357px;
   width               : 1045px;
   position            : absolute;
   margin              : 0;
-  left                : 197px;
+  left                : 198px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
 .portfolio .cloverprojectcover {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 194px;
+  top                 : 568px;
   height              : 357px;
   width               : 1045px;
   position            : absolute;
   margin              : 0;
-  left                : 197px;
+  left                : 198px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
 .portfolio .cloverprojectcoverblue {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 601px;
+  top                 : 975px;
   height              : 357px;
   width               : 1045px;
   position            : absolute;
   margin              : 0;
-  left                : 197px;
+  left                : 198px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -199,12 +199,12 @@ div {
 }
 .portfolio .cloverprojectcoverblue2 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 194px;
+  top                 : 568px;
   height              : 357px;
   width               : 1045px;
   position            : absolute;
   margin              : 0;
-  left                : 197px;
+  left                : 198px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -216,24 +216,24 @@ div {
 }
 .portfolio .cheffiguracover {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 1008px;
+  top                 : 1382px;
   height              : 357px;
   width               : 1045px;
   position            : absolute;
   margin              : 0;
-  left                : 197px;
+  left                : 198px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
 .portfolio .cheffiguracoverblue {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 1008px;
+  top                 : 1382px;
   height              : 357px;
   width               : 1045px;
   position            : absolute;
   margin              : 0;
-  left                : 197px;
+  left                : 198px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -245,7 +245,7 @@ div {
 }
 .portfolio .footer {
   background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 1585px;
+  top                 : 2235px;
   height              : 174px;
   width               : 1440px;
   position            : absolute;
@@ -257,7 +257,7 @@ div {
 }
 .portfolio .social {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 1619px;
+  top                 : 2269px;
   height              : auto;
   width               : auto;
   position            : absolute;
@@ -274,7 +274,7 @@ div {
 }
 .portfolio .contact {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 1623px;
+  top                 : 2269px;
   height              : auto;
   width               : auto;
   position            : absolute;
@@ -289,21 +289,9 @@ div {
   text-align          : center;
   line-height         : 42.0px;
 }
-.portfolio .glassesfelipebochud1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1585px;
-  height              : 160px;
-  width               : 280px;
-  position            : absolute;
-  margin              : 0;
-  left                : 1003px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
 .portfolio .linkedin1 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 1673px;
+  top                 : 2323px;
   height              : auto;
   width               : auto;
   position            : absolute;
@@ -320,12 +308,12 @@ div {
 }
 .portfolio .lipbochudgmailcom {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 1678px;
+  top                 : 2324px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 642px;
+  left                : 641px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -337,7 +325,7 @@ div {
 }
 .portfolio .behance {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 1673px;
+  top                 : 2323px;
   height              : auto;
   width               : auto;
   position            : absolute;
@@ -354,7 +342,7 @@ div {
 }
 .portfolio .dribbble {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 1674px;
+  top                 : 2324px;
   height              : auto;
   width               : auto;
   position            : absolute;
@@ -368,6 +356,35 @@ div {
   color               : rgba(0, 0, 0, 1.0);
   text-align          : center;
   line-height         : 22.0px;
+}
+.portfolio .clippercoverwebsitewhite {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 161px;
+  height              : 357px;
+  width               : 1045px;
+  position            : absolute;
+  margin              : 0;
+  left                : 198px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.portfolio .clippercoverwebsiteblue {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 161px;
+  height              : 357px;
+  width               : 1045px;
+  position            : absolute;
+  margin              : 0;
+  left                : 198px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.portfolio .clippercoverwebsiteblue:hover {
+  opacity             : 1;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {

@@ -47,14 +47,14 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.aboutme .glassesfelipebochud {
+.aboutme .glassesright150 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 108px;
-  width               : 196px;
+  top                 : 30px;
+  height              : 51px;
+  width               : 139px;
   position            : absolute;
   margin              : 0;
-  left                : 622px;
+  left                : 651px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -251,7 +251,7 @@ div {
   text-align          : center;
   line-height         : 42.0px;
 }
-.aboutme .glassesfelipebochud1 {
+.aboutme .glassesfelipebochud {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1318px;
   height              : 160px;
@@ -282,7 +282,7 @@ div {
 }
 .aboutme .lipbochudgmailcom {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 1406px;
+  top                 : 1407px;
   height              : auto;
   width               : auto;
   position            : absolute;

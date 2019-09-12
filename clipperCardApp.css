@@ -8,11 +8,11 @@
                           src: url('../fonts/OpenSans-Regular.ttf') format("truetype");
                         }
                         
-.portfolio {
+.clippercardapp {
   width               : 100%;
   min-width           : 1440px;
   height              : 100vh;
-  min-height          : 2409px;
+  min-height          : 9423px;
   position            : relative;
   overflow            : hidden;
   margin              : 0px;
@@ -35,7 +35,7 @@ div {
 div {
   -webkit-text-size-adjust: none;
 }
-.portfolio .navbar {
+.clippercardapp .navbar {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 0px;
   height              : 112px;
@@ -47,31 +47,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.portfolio .glassesright150 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 30px;
-  height              : 51px;
-  width               : 139px;
-  position            : absolute;
-  margin              : 0;
-  left                : 651px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.portfolio .rectangle {
-  background-color    : rgba(71, 181, 250, 1.0);
-  top                 : 0px;
-  height              : 112px;
-  width               : 202px;
-  position            : absolute;
-  margin              : 0;
-  left                : 168px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.portfolio .portfolio1 {
+.clippercardapp .portfolio {
   background-color    : rgba(255,255,255,0.0);
   top                 : 39px;
   height              : auto;
@@ -88,7 +64,7 @@ div {
   text-align          : center;
   line-height         : 33.0px;
 }
-.portfolio .resume {
+.clippercardapp .resume {
   background-color    : rgba(255,255,255,0.0);
   top                 : 39px;
   height              : auto;
@@ -105,7 +81,7 @@ div {
   text-align          : center;
   line-height         : 33.0px;
 }
-.portfolio .aboutme {
+.clippercardapp .aboutme {
   background-color    : rgba(255,255,255,0.0);
   top                 : 39px;
   height              : auto;
@@ -122,7 +98,7 @@ div {
   text-align          : center;
   line-height         : 33.0px;
 }
-.portfolio .linkedin {
+.clippercardapp .linkedin {
   background-color    : rgba(255,255,255,0.0);
   top                 : 39px;
   height              : auto;
@@ -139,130 +115,26 @@ div {
   text-align          : center;
   line-height         : 33.0px;
 }
-.portfolio .futureprojectswill {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1929px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 291px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Ayuthaya", Helvetica, Arial, serif;
-  font-size           : 40.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 56.0px;
-}
-.portfolio .stanfordprojectcover {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 975px;
-  height              : 357px;
-  width               : 1045px;
-  position            : absolute;
-  margin              : 0;
-  left                : 198px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.portfolio .cloverprojectcover {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 568px;
-  height              : 357px;
-  width               : 1045px;
-  position            : absolute;
-  margin              : 0;
-  left                : 198px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.portfolio .cloverprojectcoverblue {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 975px;
-  height              : 357px;
-  width               : 1045px;
-  position            : absolute;
-  margin              : 0;
-  left                : 198px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  opacity             : 0.0;
-  transition          : all 0.2s ease-in-out;
-}
-.portfolio .cloverprojectcoverblue:hover {
-  opacity             : 1;
-}
-.portfolio .cloverprojectcoverblue2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 568px;
-  height              : 357px;
-  width               : 1045px;
-  position            : absolute;
-  margin              : 0;
-  left                : 198px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  opacity             : 0.0;
-  transition          : all 0.2s ease-in-out;
-}
-.portfolio .cloverprojectcoverblue2:hover {
-  opacity             : 1;
-}
-.portfolio .cheffiguracover {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1382px;
-  height              : 357px;
-  width               : 1045px;
-  position            : absolute;
-  margin              : 0;
-  left                : 198px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.portfolio .cheffiguracoverblue {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1382px;
-  height              : 357px;
-  width               : 1045px;
-  position            : absolute;
-  margin              : 0;
-  left                : 198px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  opacity             : 0.0;
-  transition          : all 0.2s ease-in-out;
-}
-.portfolio .cheffiguracoverblue:hover {
-  opacity             : 1;
-}
-.portfolio .footer {
+.clippercardapp .footer {
   background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 2235px;
+  top                 : 9249px;
   height              : 174px;
   width               : 1440px;
   position            : absolute;
   margin              : 0;
-  left                : 1px;
+  left                : 0px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.portfolio .social {
+.clippercardapp .social {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 2269px;
+  top                 : 9283px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 259px;
+  left                : 258px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -272,14 +144,14 @@ div {
   text-align          : center;
   line-height         : 42.0px;
 }
-.portfolio .contact {
+.clippercardapp .contact {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 2269px;
+  top                 : 9283px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 657px;
+  left                : 656px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -289,102 +161,97 @@ div {
   text-align          : center;
   line-height         : 42.0px;
 }
-.portfolio .linkedin1 {
+.clippercardapp .linkedin1 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 2323px;
+  top                 : 9337px;
   height              : auto;
   width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 196px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.clippercardapp .lipbochudgmailcom {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9338px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 637px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.clippercardapp .behance {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9337px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 290px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.clippercardapp .dribbble {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9338px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 389px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.clippercardapp .glassesright150 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : 51px;
+  width               : 139px;
+  position            : absolute;
+  margin              : 0;
+  left                : 651px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.clippercardapp .clippercardportfolio {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 181px;
+  height              : 8927px;
+  width               : 1045px;
   position            : absolute;
   margin              : 0;
   left                : 197px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
-  font-family         : "Avenir-Book", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 22.0px;
-}
-.portfolio .lipbochudgmailcom {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 2324px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 641px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Avenir-Book", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 22.0px;
-}
-.portfolio .behance {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 2323px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 291px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Avenir-Book", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 22.0px;
-}
-.portfolio .dribbble {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 2324px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 390px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Avenir-Book", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 22.0px;
-}
-.portfolio .clippercoverwebsitewhite {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 161px;
-  height              : 357px;
-  width               : 1045px;
-  position            : absolute;
-  margin              : 0;
-  left                : 198px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.portfolio .clippercoverwebsiteblue {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 161px;
-  height              : 357px;
-  width               : 1045px;
-  position            : absolute;
-  margin              : 0;
-  left                : 198px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  opacity             : 0.0;
-  transition          : all 0.2s ease-in-out;
-}
-.portfolio .clippercoverwebsiteblue:hover {
-  opacity             : 1;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {

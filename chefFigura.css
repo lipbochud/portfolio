@@ -59,18 +59,6 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.cheffigura .glassesfelipebochud {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 31px;
-  height              : 51px;
-  width               : 140px;
-  position            : absolute;
-  margin              : 0;
-  left                : 650px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
 .cheffigura .portfolio {
   background-color    : rgba(255,255,255,0.0);
   top                 : 39px;
@@ -211,7 +199,7 @@ div {
 }
 .cheffigura .contact {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 11756px;
+  top                 : 11752px;
   height              : auto;
   width               : auto;
   position            : absolute;
@@ -225,18 +213,6 @@ div {
   color               : rgba(0, 0, 0, 1.0);
   text-align          : center;
   line-height         : 42.0px;
-}
-.cheffigura .glassesfelipebochud1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 11718px;
-  height              : 160px;
-  width               : 280px;
-  position            : absolute;
-  margin              : 0;
-  left                : 1002px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
 }
 .cheffigura .linkedin1 {
   background-color    : rgba(255,255,255,0.0);
@@ -257,7 +233,7 @@ div {
 }
 .cheffigura .lipbochudgmailcom {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 11811px;
+  top                 : 11807px;
   height              : auto;
   width               : auto;
   position            : absolute;
@@ -305,6 +281,18 @@ div {
   color               : rgba(0, 0, 0, 1.0);
   text-align          : center;
   line-height         : 22.0px;
+}
+.cheffigura .glassesright150 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : 51px;
+  width               : 139px;
+  position            : absolute;
+  margin              : 0;
+  left                : 651px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {

@@ -47,18 +47,6 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.stanfordcreditunion .glassesfelipebochud {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 31px;
-  height              : 51px;
-  width               : 140px;
-  position            : absolute;
-  margin              : 0;
-  left                : 650px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
 .stanfordcreditunion .portfolio {
   background-color    : rgba(255,255,255,0.0);
   top                 : 39px;
@@ -170,7 +158,7 @@ div {
 }
 .stanfordcreditunion .contact {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 6633px;
+  top                 : 6629px;
   height              : auto;
   width               : auto;
   position            : absolute;
@@ -184,18 +172,6 @@ div {
   color               : rgba(0, 0, 0, 1.0);
   text-align          : center;
   line-height         : 42.0px;
-}
-.stanfordcreditunion .glassesfelipebochud1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 6595px;
-  height              : 160px;
-  width               : 280px;
-  position            : absolute;
-  margin              : 0;
-  left                : 1002px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
 }
 .stanfordcreditunion .linkedin1 {
   background-color    : rgba(255,255,255,0.0);
@@ -216,12 +192,12 @@ div {
 }
 .stanfordcreditunion .lipbochudgmailcom {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 6688px;
+  top                 : 6684px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 641px;
+  left                : 637px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -264,6 +240,18 @@ div {
   color               : rgba(0, 0, 0, 1.0);
   text-align          : center;
   line-height         : 22.0px;
+}
+.stanfordcreditunion .glassesright150 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : 51px;
+  width               : 139px;
+  position            : absolute;
+  margin              : 0;
+  left                : 651px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {

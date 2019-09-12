@@ -47,18 +47,6 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.cloverbakeryandcafe .glassesfelipebochud {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 31px;
-  height              : 51px;
-  width               : 140px;
-  position            : absolute;
-  margin              : 0;
-  left                : 650px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
 .cloverbakeryandcafe .portfolio {
   background-color    : rgba(255,255,255,0.0);
   top                 : 39px;
@@ -173,18 +161,6 @@ div {
   text-align          : center;
   line-height         : 42.0px;
 }
-.cloverbakeryandcafe .glassesfelipebochud1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 9896px;
-  height              : 160px;
-  width               : 280px;
-  position            : absolute;
-  margin              : 0;
-  left                : 1003px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
 .cloverbakeryandcafe .linkedin1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 9984px;
@@ -204,12 +180,12 @@ div {
 }
 .cloverbakeryandcafe .lipbochudgmailcom {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 9983px;
+  top                 : 9984px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 638px;
+  left                : 637px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
@@ -261,6 +237,18 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 150px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.cloverbakeryandcafe .glassesright150 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : 51px;
+  width               : 139px;
+  position            : absolute;
+  margin              : 0;
+  left                : 651px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
