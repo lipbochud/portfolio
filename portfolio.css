@@ -3,10 +3,6 @@
                           font-family: "Ayuthaya";
                           src: url('../fonts/Ayuthaya.ttf') format("truetype");
                         }
-                        @font-face {
-                          font-family: "OpenSans-Regular";
-                          src: url('../fonts/OpenSans-Regular.ttf') format("truetype");
-                        }
                         
 .portfolio {
   width               : 100%;
@@ -66,7 +62,7 @@ div {
   width               : 202px;
   position            : absolute;
   margin              : 0;
-  left                : 168px;
+  left                : 163px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);

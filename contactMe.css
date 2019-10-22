@@ -3,10 +3,6 @@
                           font-family: "Ayuthaya";
                           src: url('../fonts/Ayuthaya.ttf') format("truetype");
                         }
-                        @font-face {
-                          font-family: "OpenSans-Regular";
-                          src: url('../fonts/OpenSans-Regular.ttf') format("truetype");
-                        }
                         
 .contactme {
   width               : 100%;
