@@ -213,119 +213,128 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.aboutme .social {
+.aboutme .iconmonstrlinkedin5 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 1352px;
-  height              : auto;
-  width               : auto;
+  top                 : 1387px;
+  height              : 37px;
+  width               : 37px;
   position            : absolute;
   margin              : 0;
-  left                : 258px;
+  left                : 197px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
-  font-family         : "Ayuthaya", Helvetica, Arial, serif;
-  font-size           : 30.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 42.0px;
 }
-.aboutme .contact {
+.aboutme .iconmonstrlinkedin5 .shape {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 1352px;
-  height              : auto;
-  width               : auto;
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
   position            : absolute;
   margin              : 0;
-  left                : 656px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Ayuthaya", Helvetica, Arial, serif;
-  font-size           : 30.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 42.0px;
-}
-.aboutme .glassesfelipebochud {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1318px;
-  height              : 160px;
-  width               : 280px;
-  position            : absolute;
-  margin              : 0;
-  left                : 1002px;
+  left                : 0px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
 .aboutme .linkedin1 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 1406px;
+  top                 : 1390px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 196px;
+  left                : 241px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   font-family         : "Avenir-Book", Helvetica, Arial, serif;
-  font-size           : 16.0px;
+  font-size           : 24.0px;
   color               : rgba(0, 0, 0, 1.0);
   text-align          : center;
-  line-height         : 22.0px;
+  line-height         : 33.0px;
 }
 .aboutme .lipbochudgmailcom {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 1407px;
+  top                 : 1390px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 641px;
+  left                : 935px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   font-family         : "Avenir-Book", Helvetica, Arial, serif;
-  font-size           : 16.0px;
+  font-size           : 24.0px;
   color               : rgba(0, 0, 0, 1.0);
   text-align          : center;
-  line-height         : 22.0px;
+  line-height         : 33.0px;
 }
 .aboutme .behance {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 1406px;
+  top                 : 1390px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 290px;
+  left                : 496px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   font-family         : "Avenir-Book", Helvetica, Arial, serif;
-  font-size           : 16.0px;
+  font-size           : 24.0px;
   color               : rgba(0, 0, 0, 1.0);
   text-align          : center;
-  line-height         : 22.0px;
+  line-height         : 33.0px;
 }
-.aboutme .dribbble {
+.aboutme .iconmonstrbehance5 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 1407px;
-  height              : auto;
-  width               : auto;
+  top                 : 1387px;
+  height              : 37px;
+  width               : 37px;
   position            : absolute;
   margin              : 0;
-  left                : 389px;
+  left                : 452px;
   -ms-transform       : rotate(0deg); /* IE 9 */
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
-  font-family         : "Avenir-Book", Helvetica, Arial, serif;
-  font-size           : 16.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 22.0px;
+}
+.aboutme .iconmonstrbehance5 .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutme .iconmonstrgmail5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1387px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 891px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.aboutme .iconmonstrgmail5 .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
