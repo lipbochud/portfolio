@@ -239,18 +239,6 @@ div {
 .portfolio .cheffiguracoverblue:hover {
   opacity             : 1;
 }
-.portfolio .footer {
-  background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 1018px;
-  height              : 174px;
-  width               : 1440px;
-  position            : absolute;
-  margin              : 0;
-  left                : 1px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
 .portfolio .clippercoverwebsitewhite {
   background-color    : rgba(255,255,255,0.0);
   top                 : 161px;
