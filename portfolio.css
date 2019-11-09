@@ -4,7 +4,7 @@
                           src: url('../fonts/Ayuthaya.ttf') format("truetype");
                         }
                         
-.portfolio {
+.bp1-portfolio {
   width               : 100%;
   min-width           : 1440px;
   height              : 100vh;
@@ -31,7 +31,7 @@ div {
 div {
   -webkit-text-size-adjust: none;
 }
-.portfolio .navbar {
+.bp1-portfolio .bp1-navbar {
   background-color    : rgba(255, 255, 255, 1.0);
   top                 : 0px;
   height              : 112px;
@@ -43,7 +43,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.portfolio .glassesright150 {
+.bp1-portfolio .bp1-glassesright150 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 30px;
   height              : 51px;
@@ -55,7 +55,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.portfolio .rectangle {
+.bp1-portfolio .bp1-rectangle {
   background-color    : rgba(71, 181, 250, 1.0);
   top                 : 0px;
   height              : 112px;
@@ -67,7 +67,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.portfolio .portfolio1 {
+.bp1-portfolio .bp1-portfolio1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 39px;
   height              : auto;
@@ -84,7 +84,7 @@ div {
   text-align          : center;
   line-height         : 33.0px;
 }
-.portfolio .resume {
+.bp1-portfolio .bp1-resume {
   background-color    : rgba(255,255,255,0.0);
   top                 : 39px;
   height              : auto;
@@ -101,7 +101,7 @@ div {
   text-align          : center;
   line-height         : 33.0px;
 }
-.portfolio .aboutme {
+.bp1-portfolio .bp1-aboutme {
   background-color    : rgba(255,255,255,0.0);
   top                 : 39px;
   height              : auto;
@@ -118,7 +118,7 @@ div {
   text-align          : center;
   line-height         : 33.0px;
 }
-.portfolio .linkedin {
+.bp1-portfolio .bp1-linkedin {
   background-color    : rgba(255,255,255,0.0);
   top                 : 39px;
   height              : auto;
@@ -135,7 +135,7 @@ div {
   text-align          : center;
   line-height         : 33.0px;
 }
-.portfolio .futureprojectswill {
+.bp1-portfolio .bp1-futureprojectswill {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1929px;
   height              : auto;
@@ -152,7 +152,7 @@ div {
   text-align          : center;
   line-height         : 56.0px;
 }
-.portfolio .stanfordprojectcover {
+.bp1-portfolio .bp1-stanfordprojectcover {
   background-color    : rgba(255,255,255,0.0);
   top                 : 975px;
   height              : 357px;
@@ -164,7 +164,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.portfolio .cloverprojectcover {
+.bp1-portfolio .bp1-cloverprojectcover {
   background-color    : rgba(255,255,255,0.0);
   top                 : 568px;
   height              : 357px;
@@ -176,7 +176,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.portfolio .cloverprojectcoverblue {
+.bp1-portfolio .bp1-cloverprojectcoverblue {
   background-color    : rgba(255,255,255,0.0);
   top                 : 975px;
   height              : 357px;
@@ -190,10 +190,10 @@ div {
   opacity             : 0.0;
   transition          : all 0.2s ease-in-out;
 }
-.portfolio .cloverprojectcoverblue:hover {
+.bp1-portfolio .bp1-cloverprojectcoverblue:hover {
   opacity             : 1;
 }
-.portfolio .cloverprojectcoverblue2 {
+.bp1-portfolio .bp1-cloverprojectcoverblue2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 568px;
   height              : 357px;
@@ -207,10 +207,10 @@ div {
   opacity             : 0.0;
   transition          : all 0.2s ease-in-out;
 }
-.portfolio .cloverprojectcoverblue2:hover {
+.bp1-portfolio .bp1-cloverprojectcoverblue2:hover {
   opacity             : 1;
 }
-.portfolio .cheffiguracover {
+.bp1-portfolio .bp1-cheffiguracover {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1382px;
   height              : 357px;
@@ -222,7 +222,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.portfolio .cheffiguracoverblue {
+.bp1-portfolio .bp1-cheffiguracoverblue {
   background-color    : rgba(255,255,255,0.0);
   top                 : 1382px;
   height              : 357px;
@@ -236,10 +236,10 @@ div {
   opacity             : 0.0;
   transition          : all 0.2s ease-in-out;
 }
-.portfolio .cheffiguracoverblue:hover {
+.bp1-portfolio .bp1-cheffiguracoverblue:hover {
   opacity             : 1;
 }
-.portfolio .clippercoverwebsitewhite {
+.bp1-portfolio .bp1-clippercoverwebsitewhite {
   background-color    : rgba(255,255,255,0.0);
   top                 : 161px;
   height              : 357px;
@@ -251,7 +251,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.portfolio .clippercoverwebsiteblue {
+.bp1-portfolio .bp1-clippercoverwebsiteblue {
   background-color    : rgba(255,255,255,0.0);
   top                 : 161px;
   height              : 357px;
@@ -265,10 +265,10 @@ div {
   opacity             : 0.0;
   transition          : all 0.2s ease-in-out;
 }
-.portfolio .clippercoverwebsiteblue:hover {
+.bp1-portfolio .bp1-clippercoverwebsiteblue:hover {
   opacity             : 1;
 }
-.portfolio .iconmonstrlinkedin5 {
+.bp1-portfolio .bp1-iconmonstrlinkedin5 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 2304px;
   height              : 37px;
@@ -280,7 +280,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.portfolio .iconmonstrlinkedin5 .shape {
+.bp1-portfolio .bp1-iconmonstrlinkedin5 .bp1-shape {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 37px;
@@ -292,7 +292,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.portfolio .linkedin1 {
+.bp1-portfolio .bp1-linkedin1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 2307px;
   height              : auto;
@@ -309,7 +309,7 @@ div {
   text-align          : center;
   line-height         : 33.0px;
 }
-.portfolio .lipbochudgmailcom {
+.bp1-portfolio .bp1-lipbochudgmailcom {
   background-color    : rgba(255,255,255,0.0);
   top                 : 2307px;
   height              : auto;
@@ -326,7 +326,7 @@ div {
   text-align          : center;
   line-height         : 33.0px;
 }
-.portfolio .behance {
+.bp1-portfolio .bp1-behance {
   background-color    : rgba(255,255,255,0.0);
   top                 : 2307px;
   height              : auto;
@@ -343,7 +343,7 @@ div {
   text-align          : center;
   line-height         : 33.0px;
 }
-.portfolio .iconmonstrbehance5 {
+.bp1-portfolio .bp1-iconmonstrbehance5 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 2304px;
   height              : 37px;
@@ -355,7 +355,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.portfolio .iconmonstrbehance5 .shape {
+.bp1-portfolio .bp1-iconmonstrbehance5 .bp1-shape {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 37px;
@@ -367,7 +367,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.portfolio .iconmonstrgmail5 {
+.bp1-portfolio .bp1-iconmonstrgmail5 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 2304px;
   height              : 37px;
@@ -379,7 +379,7 @@ div {
   -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
 }
-.portfolio .iconmonstrgmail5 .shape {
+.bp1-portfolio .bp1-iconmonstrgmail5 .bp1-shape {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 37px;
