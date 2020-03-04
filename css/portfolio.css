@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:400|Raleway:400');
 
 @font-face {
                           font-family: "OpenSans-Regular";
@@ -131,19 +132,21 @@ div {
 }
 .bp1-portfolio .bp1-formoreprojectsv {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 1892px;
+  top                 : 1817px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 333px;
+  left                : 347px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Futura-Medium", Helvetica, Arial, serif;
-  font-size           : 40.0px;
+  font-family         : "Raleway", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 36.0px;
   color               : rgba(0, 0, 0, 1.0);
   text-align          : center;
-  line-height         : 53.0px;
+  line-height         : 42.0px;
 }
 .bp1-portfolio .bp1-stanfordprojectcover {
   background-color    : rgba(255,255,255,0.0);
@@ -374,6 +377,52 @@ div {
   left                : 0px;
   transform           : rotate(0deg);
   opacity             : 1.0;
+}
+.bp1-portfolio .bp1-rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1924px;
+  height              : 77px;
+  width               : 263px;
+  position            : absolute;
+  margin              : 0;
+  left                : 588px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-portfolio .bp1-rectangle2 {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 1931px;
+  height              : 59px;
+  width               : 245px;
+  position            : absolute;
+  margin              : 0;
+  left                : 597px;
+  border-radius       : 8px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-portfolio .bp1-rectangle2 {
+  pointer-events      : auto;
+}
+.bp1-portfolio .bp1-rectangle2:hover {
+  opacity             : 1;
+}
+.bp1-portfolio .bp1-nicku2019sbehance {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1944px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 637px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {

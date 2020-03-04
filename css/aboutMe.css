@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville:400|Raleway:400');
 
 @font-face {
                           font-family: "OpenSans-Regular";
@@ -142,7 +143,7 @@ div {
 }
 .aboutme .iu2019mabilingualliv {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 305px;
+  top                 : 306px;
   height              : auto;
   width               : 547px;
   position            : absolute;
@@ -150,11 +151,14 @@ div {
   left                : 197px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-family         : "Raleway", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
   font-size           : 20.0px;
   color               : rgba(0, 0, 0, 1.0);
   text-align          : left;
-  line-height         : 27.0px;
+  letter-spacing      : 0.2px;
+  line-height         : 24.0px;
 }
 .aboutme .screenshot20190821at12008pm {
   background-color    : rgba(255,255,255,0.0);
@@ -169,7 +173,7 @@ div {
 }
 .aboutme .himynameisnick {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 150px;
+  top                 : 154px;
   height              : auto;
   width               : 504px;
   position            : absolute;
@@ -177,14 +181,16 @@ div {
   left                : 200px;
   transform           : rotate(0deg);
   opacity             : 1.0;
-  font-family         : "Ayuthaya", Helvetica, Arial, serif;
+  font-family         : "Libre Baskerville", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
   font-size           : 40.0px;
   color               : rgba(0, 0, 0, 1.0);
   text-align          : left;
   line-height         : 20.0px;
 }
 .aboutme .himynameisnick .span1 {
-  line-height         : 56.0px;
+  line-height         : 50.0px;
 }
 .aboutme .himynameisnick .span2 {
   font-family         : "Avenir-Book", Helvetica, Arial, serif;
