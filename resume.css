@@ -1,7 +1,7 @@
 
 @font-face {
-                          font-family: "Ayuthaya";
-                          src: url('../fonts/Ayuthaya.ttf') format("truetype");
+                          font-family: "OpenSans-Regular";
+                          src: url('../fonts/OpenSans-Regular.ttf') format("truetype");
                         }
                         
 .resume {
@@ -15,6 +15,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
 }
 a {
   text-decoration     : none;
@@ -39,9 +40,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .resume .glassesfelipebochud {
   background-color    : rgba(255,255,255,0.0);
@@ -51,9 +51,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 622px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .resume .rectangle {
   background-color    : rgba(71, 181, 250, 1.0);
@@ -63,9 +62,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 399px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .resume .portfolio {
   background-color    : rgba(255,255,255,0.0);
@@ -75,9 +73,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 196px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Light", Helvetica, Arial, serif;
   font-size           : 24.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -92,9 +89,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 441px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Light", Helvetica, Arial, serif;
   font-size           : 24.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -109,9 +105,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 914px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Light", Helvetica, Arial, serif;
   font-size           : 24.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -126,9 +121,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 1128px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Light", Helvetica, Arial, serif;
   font-size           : 24.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -143,9 +137,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .resume .footer .footer1 {
   background-color    : rgba(255, 255, 255, 1.0);
@@ -155,9 +148,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .resume .footer .social {
   background-color    : rgba(255,255,255,0.0);
@@ -167,9 +159,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 258px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Ayuthaya", Helvetica, Arial, serif;
   font-size           : 30.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -184,9 +175,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 656px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Ayuthaya", Helvetica, Arial, serif;
   font-size           : 30.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -201,9 +191,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 1002px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .resume .footer .linkedin1 {
   background-color    : rgba(255,255,255,0.0);
@@ -213,9 +202,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 196px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Book", Helvetica, Arial, serif;
   font-size           : 16.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -230,9 +218,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 641px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Book", Helvetica, Arial, serif;
   font-size           : 16.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -247,9 +234,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 290px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Book", Helvetica, Arial, serif;
   font-size           : 16.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -264,9 +250,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 389px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Book", Helvetica, Arial, serif;
   font-size           : 16.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -351,4 +336,35 @@ div {
   {
       opacity: 1;
     }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
 }

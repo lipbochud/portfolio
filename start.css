@@ -1,9 +1,1744 @@
 
 @font-face {
-                          font-family: "Ayuthaya";
-                          src: url('../fonts/Ayuthaya.ttf') format("truetype");
+                          font-family: "OpenSans-Regular";
+                          src: url('../fonts/OpenSans-Regular.ttf') format("truetype");
                         }
                         
+.bp1-start1920 {
+  width               : 100%;
+  min-width           : 1920px;
+  height              : 100vh;
+  min-height          : 1208px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(71, 181, 250, 1.0);
+  opacity             : 1.0;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp1-start1920 .bp1-hiiu2019mnick {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 225px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 439px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Ayuthaya", Helvetica, Arial, serif;
+  font-size           : 70.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 97.0px;
+}
+.bp1-start1920 .bp1-apassionateuxdesi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 336px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 437px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Ayuthaya", Helvetica, Arial, serif;
+  font-size           : 50.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 69.0px;
+}
+.bp1-start1920 .bp1-electriclightbulb {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 587px;
+  height              : 228px;
+  width               : 250px;
+  position            : absolute;
+  margin              : 0;
+  left                : 437px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-start1920 .bp1-electriclightbulb .bp1-electriclightbulbsvgrepocom {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 228px;
+  width               : 250px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-start1920 .bp1-electriclightbulb .bp1-electriclightbulbsvgrepocom .bp1-path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29px;
+  height              : 50px;
+  width               : 50px;
+  position            : absolute;
+  margin              : 0;
+  left                : 77px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-start1920 .bp1-electriclightbulb .bp1-electriclightbulbsvgrepocom .bp1-path1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 155px;
+  width               : 135px;
+  position            : absolute;
+  margin              : 0;
+  left                : 58px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-start1920 .bp1-electriclightbulb .bp1-electriclightbulbsvgrepocom .bp1-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 165px;
+  height              : 25px;
+  width               : 81px;
+  position            : absolute;
+  margin              : 0;
+  left                : 85px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-start1920 .bp1-electriclightbulb .bp1-electriclightbulbsvgrepocom .bp1-path2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 196px;
+  height              : 32px;
+  width               : 56px;
+  position            : absolute;
+  margin              : 0;
+  left                : 98px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-start1920 .bp1-electriclightbulb .bp1-electriclightbulbsvgrepocom .bp1-path3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 125px;
+  height              : 31px;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 191px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-start1920 .bp1-electriclightbulb .bp1-electriclightbulbsvgrepocom .bp1-path4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 32px;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-start1920 .bp1-electriclightbulb .bp1-electriclightbulbsvgrepocom .bp1-path5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 124px;
+  height              : 32px;
+  width               : 41px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-start1920 .bp1-electriclightbulb .bp1-electriclightbulbsvgrepocom .bp1-path6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 193px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-start1920 .bp1-electriclightbulb .bp1-electriclightbulbsvgrepocom .bp1-path7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 74px;
+  height              : 9px;
+  width               : 42px;
+  position            : absolute;
+  margin              : 0;
+  left                : 208px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-start1920 .bp1-electriclightbulb .bp1-electriclightbulbsvgrepocom .bp1-path8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 74px;
+  height              : 9px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-start1920 .bp1-footer {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 1034px;
+  height              : 354px;
+  width               : 2910px;
+  position            : absolute;
+  margin              : 0;
+  left                : -539px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-start1920 .bp1-navbar {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 112px;
+  width               : 2839px;
+  position            : absolute;
+  margin              : 0;
+  left                : -468px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-start1920 .bp1-rectangle {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 0px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 403px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-start1920 .bp1-rectangle {
+  pointer-events      : auto;
+}
+.bp1-start1920 .bp1-rectangle:hover {
+  opacity             : 1;
+}
+.bp1-start1920 .bp1-rectanglecopy {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 0px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 610px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-start1920 .bp1-rectanglecopy {
+  pointer-events      : auto;
+}
+.bp1-start1920 .bp1-rectanglecopy:hover {
+  opacity             : 1;
+}
+.bp1-start1920 .bp1-rectanglecopy2 {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : -1px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1323px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-start1920 .bp1-rectanglecopy2 {
+  pointer-events      : auto;
+}
+.bp1-start1920 .bp1-rectanglecopy2:hover {
+  opacity             : 1;
+}
+.bp1-start1920 .bp1-rectanglecopy3 {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 0px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1116px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-start1920 .bp1-rectanglecopy3 {
+  pointer-events      : auto;
+}
+.bp1-start1920 .bp1-rectanglecopy3:hover {
+  opacity             : 1;
+}
+.bp1-start1920 .bp1-portfoliohangover {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 0px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 403px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+}
+.bp1-start1920 .bp1-portfoliohangovercopy {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 0px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 610px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+}
+.bp1-start1920 .bp1-portfoliohangovercopy2 {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 0px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1116px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+}
+.bp1-start1920 .bp1-portfoliohangovercopy3 {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 0px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1323px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+}
+.bp1-start1920 .bp1-portfolio {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 436px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Light", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp1-start1920 .bp1-resume {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 663px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Light", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp1-start1920 .bp1-aboutme {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1154px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Light", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp1-start1920 .bp1-linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1368px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Light", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp1-start1920 .bp1-glassesright150 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : 51px;
+  width               : 139px;
+  position            : absolute;
+  margin              : 0;
+  left                : 891px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-start1920 .bp1-iconmonstrlinkedin5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1102px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 440px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-start1920 .bp1-iconmonstrlinkedin5 .bp1-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-start1920 .bp1-linkedin1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1105px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 484px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp1-start1920 .bp1-lipbochudgmailcom {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1105px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1178px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp1-start1920 .bp1-behance {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1105px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 739px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp1-start1920 .bp1-iconmonstrbehance5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1102px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 695px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-start1920 .bp1-iconmonstrbehance5 .bp1-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-start1920 .bp1-iconmonstrgmail5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1102px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1134px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-start1920 .bp1-iconmonstrgmail5 .bp1-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.bp2-start1092 {
+  width               : 100%;
+  min-width           : 1092px;
+  height              : 100vh;
+  min-height          : 1208px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(71, 181, 250, 1.0);
+  opacity             : 1.0;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp2-start1092 .bp2-navbar {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 112px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : -168px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-start1092 .bp2-portfolio {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 40px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 90px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Light", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp2-start1092 .bp2-resume {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 322px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Light", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp2-start1092 .bp2-aboutme {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 685px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Light", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp2-start1092 .bp2-linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 40px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 896px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Light", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp2-start1092 .bp2-hiiu2019mnick {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 225px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 82px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Ayuthaya", Helvetica, Arial, serif;
+  font-size           : 70.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 97.0px;
+}
+.bp2-start1092 .bp2-apassionateuxdesi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 334px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 83px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Ayuthaya", Helvetica, Arial, serif;
+  font-size           : 50.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 69.0px;
+}
+.bp2-start1092 .bp2-electriclightbulb {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 585px;
+  height              : 228px;
+  width               : 250px;
+  position            : absolute;
+  margin              : 0;
+  left                : 91px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-start1092 .bp2-electriclightbulb .bp2-electriclightbulbsvgrepocom {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 228px;
+  width               : 250px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-start1092 .bp2-electriclightbulb .bp2-electriclightbulbsvgrepocom .bp2-path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29px;
+  height              : 50px;
+  width               : 50px;
+  position            : absolute;
+  margin              : 0;
+  left                : 77px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-start1092 .bp2-electriclightbulb .bp2-electriclightbulbsvgrepocom .bp2-path1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 155px;
+  width               : 135px;
+  position            : absolute;
+  margin              : 0;
+  left                : 58px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-start1092 .bp2-electriclightbulb .bp2-electriclightbulbsvgrepocom .bp2-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 165px;
+  height              : 25px;
+  width               : 81px;
+  position            : absolute;
+  margin              : 0;
+  left                : 85px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-start1092 .bp2-electriclightbulb .bp2-electriclightbulbsvgrepocom .bp2-path2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 196px;
+  height              : 32px;
+  width               : 56px;
+  position            : absolute;
+  margin              : 0;
+  left                : 98px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-start1092 .bp2-electriclightbulb .bp2-electriclightbulbsvgrepocom .bp2-path3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 125px;
+  height              : 31px;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 191px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-start1092 .bp2-electriclightbulb .bp2-electriclightbulbsvgrepocom .bp2-path4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 32px;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-start1092 .bp2-electriclightbulb .bp2-electriclightbulbsvgrepocom .bp2-path5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 124px;
+  height              : 32px;
+  width               : 41px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-start1092 .bp2-electriclightbulb .bp2-electriclightbulbsvgrepocom .bp2-path6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 193px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-start1092 .bp2-electriclightbulb .bp2-electriclightbulbsvgrepocom .bp2-path7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 74px;
+  height              : 9px;
+  width               : 42px;
+  position            : absolute;
+  margin              : 0;
+  left                : 208px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-start1092 .bp2-electriclightbulb .bp2-electriclightbulbsvgrepocom .bp2-path8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 74px;
+  height              : 9px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-start1092 .bp2-footer {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 1034px;
+  height              : 174px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : -168px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-start1092 .bp2-glassesright150 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 31px;
+  height              : 51px;
+  width               : 139px;
+  position            : absolute;
+  margin              : 0;
+  left                : 483px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-start1092 .bp2-iconmonstrlinkedin5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1100px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 91px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-start1092 .bp2-iconmonstrlinkedin5 .bp2-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-start1092 .bp2-linkedin1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1103px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 135px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp2-start1092 .bp2-lipbochudgmailcom {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1102px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 704px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp2-start1092 .bp2-behance {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1103px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 386px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp2-start1092 .bp2-iconmonstrbehance5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1100px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 342px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-start1092 .bp2-iconmonstrbehance5 .bp2-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-start1092 .bp2-iconmonstrgmail5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1099px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 660px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-start1092 .bp2-iconmonstrgmail5 .bp2-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.bp4-start1720 {
+  width               : 100%;
+  min-width           : 1720px;
+  height              : 100vh;
+  min-height          : 1208px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(71, 181, 250, 1.0);
+  opacity             : 1.0;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp4-start1720 .bp4-hiiu2019mnick {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 217px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 436px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Ayuthaya", Helvetica, Arial, serif;
+  font-size           : 70.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 97.0px;
+}
+.bp4-start1720 .bp4-apassionateuxdesi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 335px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 437px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Ayuthaya", Helvetica, Arial, serif;
+  font-size           : 50.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 69.0px;
+}
+.bp4-start1720 .bp4-electriclightbulb {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 586px;
+  height              : 228px;
+  width               : 250px;
+  position            : absolute;
+  margin              : 0;
+  left                : 437px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-start1720 .bp4-electriclightbulb .bp4-electriclightbulbsvgrepocom {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 228px;
+  width               : 250px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-start1720 .bp4-electriclightbulb .bp4-electriclightbulbsvgrepocom .bp4-path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29px;
+  height              : 50px;
+  width               : 50px;
+  position            : absolute;
+  margin              : 0;
+  left                : 77px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-start1720 .bp4-electriclightbulb .bp4-electriclightbulbsvgrepocom .bp4-path1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 155px;
+  width               : 135px;
+  position            : absolute;
+  margin              : 0;
+  left                : 58px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-start1720 .bp4-electriclightbulb .bp4-electriclightbulbsvgrepocom .bp4-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 165px;
+  height              : 25px;
+  width               : 81px;
+  position            : absolute;
+  margin              : 0;
+  left                : 85px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-start1720 .bp4-electriclightbulb .bp4-electriclightbulbsvgrepocom .bp4-path2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 196px;
+  height              : 32px;
+  width               : 56px;
+  position            : absolute;
+  margin              : 0;
+  left                : 98px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-start1720 .bp4-electriclightbulb .bp4-electriclightbulbsvgrepocom .bp4-path3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 125px;
+  height              : 31px;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 191px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-start1720 .bp4-electriclightbulb .bp4-electriclightbulbsvgrepocom .bp4-path4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 32px;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-start1720 .bp4-electriclightbulb .bp4-electriclightbulbsvgrepocom .bp4-path5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 124px;
+  height              : 32px;
+  width               : 41px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-start1720 .bp4-electriclightbulb .bp4-electriclightbulbsvgrepocom .bp4-path6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 193px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-start1720 .bp4-electriclightbulb .bp4-electriclightbulbsvgrepocom .bp4-path7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 74px;
+  height              : 9px;
+  width               : 42px;
+  position            : absolute;
+  margin              : 0;
+  left                : 208px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-start1720 .bp4-electriclightbulb .bp4-electriclightbulbsvgrepocom .bp4-path8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 74px;
+  height              : 9px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-start1720 .bp4-footer {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 1034px;
+  height              : 361px;
+  width               : 2526px;
+  position            : absolute;
+  margin              : 0;
+  left                : -429px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-start1720 .bp4-iconmonstrlinkedin5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1102px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 340px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-start1720 .bp4-iconmonstrlinkedin5 .bp4-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-start1720 .bp4-linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1105px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 384px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp4-start1720 .bp4-lipbochudgmailcom {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1105px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1078px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp4-start1720 .bp4-behance {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1105px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 639px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp4-start1720 .bp4-iconmonstrbehance5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1102px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 595px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-start1720 .bp4-iconmonstrbehance5 .bp4-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-start1720 .bp4-iconmonstrgmail5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1102px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1034px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-start1720 .bp4-iconmonstrgmail5 .bp4-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-start1720 .bp4-navbar {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 1px;
+  height              : 112px;
+  width               : 2839px;
+  position            : absolute;
+  margin              : 0;
+  left                : -568px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-start1720 .bp4-rectangle {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 1px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 303px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.bp4-start1720 .bp4-rectangle {
+  pointer-events      : auto;
+}
+.bp4-start1720 .bp4-rectangle:hover {
+  opacity             : 1;
+}
+.bp4-start1720 .bp4-rectanglecopy {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 1px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 510px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.bp4-start1720 .bp4-rectanglecopy {
+  pointer-events      : auto;
+}
+.bp4-start1720 .bp4-rectanglecopy:hover {
+  opacity             : 1;
+}
+.bp4-start1720 .bp4-rectanglecopy3 {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 1px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1016px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.bp4-start1720 .bp4-rectanglecopy3 {
+  pointer-events      : auto;
+}
+.bp4-start1720 .bp4-rectanglecopy3:hover {
+  opacity             : 1;
+}
+.bp4-start1720 .bp4-portfoliohangover {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 1px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 303px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+}
+.bp4-start1720 .bp4-portfoliohangovercopy {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 1px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 510px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+}
+.bp4-start1720 .bp4-portfoliohangovercopy2 {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 1px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1016px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+}
+.bp4-start1720 .bp4-portfolio {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 40px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 336px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Light", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp4-start1720 .bp4-resume {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 40px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 563px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Light", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp4-start1720 .bp4-aboutme {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 40px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1054px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Light", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp4-start1720 .bp4-glassesright150 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 31px;
+  height              : 51px;
+  width               : 139px;
+  position            : absolute;
+  margin              : 0;
+  left                : 791px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-start1720 .bp4-rectanglecopy2 {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 0px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1223px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.bp4-start1720 .bp4-rectanglecopy2 {
+  pointer-events      : auto;
+}
+.bp4-start1720 .bp4-rectanglecopy2:hover {
+  opacity             : 1;
+}
+.bp4-start1720 .bp4-portfoliohangovercopy3 {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 1px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1223px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+}
+.bp4-start1720 .bp4-linkedin1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 40px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1268px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Light", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
 .bp3-start {
   width               : 100%;
   min-width           : 1440px;
@@ -15,6 +1750,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color    : rgba(71, 181, 250, 1.0);
+  opacity             : 1.0;
 }
 a {
   text-decoration     : none;
@@ -31,17 +1767,16 @@ div {
 div {
   -webkit-text-size-adjust: none;
 }
-.bp3-start .bp3-hiiu2019mfelipe {
+.bp3-start .bp3-hiiu2019mnick {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 244px;
+  top                 : 243px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
   left                : 196px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Ayuthaya", Helvetica, Arial, serif;
   font-size           : 70.0px;
   color               : rgba(255, 255, 255, 1.0);
@@ -56,16 +1791,15 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 197px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Ayuthaya", Helvetica, Arial, serif;
   font-size           : 50.0px;
   color               : rgba(255, 255, 255, 1.0);
   text-align          : left;
   line-height         : 69.0px;
 }
-.bp3-start .bp3-electriclightbulbsvgrepocom {
+.bp3-start .bp3-electriclightbulb {
   background-color    : rgba(255,255,255,0.0);
   top                 : 606px;
   height              : 228px;
@@ -73,11 +1807,21 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 197px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
-.bp3-start .bp3-electriclightbulbsvgrepocom .bp3-path {
+.bp3-start .bp3-electriclightbulb .bp3-electriclightbulbsvgrepocom {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 228px;
+  width               : 250px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-start .bp3-electriclightbulb .bp3-electriclightbulbsvgrepocom .bp3-path {
   background-color    : rgba(255,255,255,0.0);
   top                 : 29px;
   height              : 50px;
@@ -85,11 +1829,10 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 77px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
-.bp3-start .bp3-electriclightbulbsvgrepocom .bp3-path1 {
+.bp3-start .bp3-electriclightbulb .bp3-electriclightbulbsvgrepocom .bp3-path1 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 7px;
   height              : 155px;
@@ -97,11 +1840,10 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 58px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
-.bp3-start .bp3-electriclightbulbsvgrepocom .bp3-shape {
+.bp3-start .bp3-electriclightbulb .bp3-electriclightbulbsvgrepocom .bp3-shape {
   background-color    : rgba(255,255,255,0.0);
   top                 : 165px;
   height              : 25px;
@@ -109,11 +1851,10 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 85px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
-.bp3-start .bp3-electriclightbulbsvgrepocom .bp3-path2 {
+.bp3-start .bp3-electriclightbulb .bp3-electriclightbulbsvgrepocom .bp3-path2 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 196px;
   height              : 32px;
@@ -121,11 +1862,10 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 98px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
-.bp3-start .bp3-electriclightbulbsvgrepocom .bp3-path3 {
+.bp3-start .bp3-electriclightbulb .bp3-electriclightbulbsvgrepocom .bp3-path3 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 125px;
   height              : 31px;
@@ -133,11 +1873,10 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 191px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
-.bp3-start .bp3-electriclightbulbsvgrepocom .bp3-path4 {
+.bp3-start .bp3-electriclightbulb .bp3-electriclightbulbsvgrepocom .bp3-path4 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 32px;
@@ -145,11 +1884,10 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 22px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
-.bp3-start .bp3-electriclightbulbsvgrepocom .bp3-path5 {
+.bp3-start .bp3-electriclightbulb .bp3-electriclightbulbsvgrepocom .bp3-path5 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 124px;
   height              : 32px;
@@ -157,11 +1895,10 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 21px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
-.bp3-start .bp3-electriclightbulbsvgrepocom .bp3-path6 {
+.bp3-start .bp3-electriclightbulb .bp3-electriclightbulbsvgrepocom .bp3-path6 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 0px;
   height              : 30px;
@@ -169,11 +1906,10 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 193px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
-.bp3-start .bp3-electriclightbulbsvgrepocom .bp3-path7 {
+.bp3-start .bp3-electriclightbulb .bp3-electriclightbulbsvgrepocom .bp3-path7 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 74px;
   height              : 9px;
@@ -181,11 +1917,10 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 208px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
-.bp3-start .bp3-electriclightbulbsvgrepocom .bp3-path8 {
+.bp3-start .bp3-electriclightbulb .bp3-electriclightbulbsvgrepocom .bp3-path8 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 74px;
   height              : 9px;
@@ -193,9 +1928,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .bp3-start .bp3-footer {
   background-color    : rgba(255, 255, 255, 1.0);
@@ -205,9 +1939,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : -423px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .bp3-start .bp3-navbar {
   background-color    : rgba(255, 255, 255, 1.0);
@@ -217,9 +1950,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : -240px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .bp3-start .bp3-rectangle {
   background-color    : rgba(71, 181, 250, 1.0);
@@ -229,11 +1961,12 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 163px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   opacity             : 0.0;
   transition          : all 0.2s ease-in-out;
+}
+.bp3-start .bp3-rectangle {
+  pointer-events      : auto;
 }
 .bp3-start .bp3-rectangle:hover {
   opacity             : 1;
@@ -246,11 +1979,12 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 370px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   opacity             : 0.0;
   transition          : all 0.2s ease-in-out;
+}
+.bp3-start .bp3-rectanglecopy {
+  pointer-events      : auto;
 }
 .bp3-start .bp3-rectanglecopy:hover {
   opacity             : 1;
@@ -263,11 +1997,12 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 1083px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   opacity             : 0.0;
   transition          : all 0.2s ease-in-out;
+}
+.bp3-start .bp3-rectanglecopy2 {
+  pointer-events      : auto;
 }
 .bp3-start .bp3-rectanglecopy2:hover {
   opacity             : 1;
@@ -280,11 +2015,12 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 876px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   opacity             : 0.0;
   transition          : all 0.2s ease-in-out;
+}
+.bp3-start .bp3-rectanglecopy3 {
+  pointer-events      : auto;
 }
 .bp3-start .bp3-rectanglecopy3:hover {
   opacity             : 1;
@@ -297,8 +2033,6 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 163px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   opacity             : 0.0;
 }
@@ -310,8 +2044,6 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 370px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   opacity             : 0.0;
 }
@@ -323,8 +2055,6 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 876px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   opacity             : 0.0;
 }
@@ -336,8 +2066,6 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 1083px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   opacity             : 0.0;
 }
@@ -349,9 +2077,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 196px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Light", Helvetica, Arial, serif;
   font-size           : 24.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -366,9 +2093,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 423px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Light", Helvetica, Arial, serif;
   font-size           : 24.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -383,9 +2109,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 914px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Light", Helvetica, Arial, serif;
   font-size           : 24.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -400,9 +2125,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 1128px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Light", Helvetica, Arial, serif;
   font-size           : 24.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -417,9 +2141,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 651px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .bp3-start .bp3-iconmonstrlinkedin5 {
   background-color    : rgba(255,255,255,0.0);
@@ -429,9 +2152,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 200px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .bp3-start .bp3-iconmonstrlinkedin5 .bp3-shape {
   background-color    : rgba(255,255,255,0.0);
@@ -441,9 +2163,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .bp3-start .bp3-linkedin1 {
   background-color    : rgba(255,255,255,0.0);
@@ -453,9 +2174,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 244px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Book", Helvetica, Arial, serif;
   font-size           : 24.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -470,9 +2190,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 938px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Book", Helvetica, Arial, serif;
   font-size           : 24.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -487,9 +2206,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 499px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Book", Helvetica, Arial, serif;
   font-size           : 24.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -504,9 +2222,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 455px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .bp3-start .bp3-iconmonstrbehance5 .bp3-shape {
   background-color    : rgba(255,255,255,0.0);
@@ -516,9 +2233,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .bp3-start .bp3-iconmonstrgmail5 {
   background-color    : rgba(255,255,255,0.0);
@@ -528,9 +2244,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 894px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .bp3-start .bp3-iconmonstrgmail5 .bp3-shape {
   background-color    : rgba(255,255,255,0.0);
@@ -540,9 +2255,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
@@ -623,1706 +2337,36 @@ div {
       opacity: 1;
     }
 }
-.bp4-start1720 {
-  width               : 100%;
-  min-width           : 1720px;
-  height              : 100vh;
-  min-height          : 1208px;
-  position            : relative;
-  overflow            : hidden;
-  margin              : 0px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background-color    : rgba(71, 181, 250, 1.0);
-}
-div {
-  -webkit-text-size-adjust: none;
-}
-.bp4-start1720 .bp4-hiiu2019mfelipe {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 224px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 436px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Ayuthaya", Helvetica, Arial, serif;
-  font-size           : 70.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : center;
-  line-height         : 97.0px;
-}
-.bp4-start1720 .bp4-apassionateuxdesi {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 335px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 437px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Ayuthaya", Helvetica, Arial, serif;
-  font-size           : 50.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  line-height         : 69.0px;
-}
-.bp4-start1720 .bp4-electriclightbulbsvgrepocom {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 586px;
-  height              : 228px;
-  width               : 250px;
-  position            : absolute;
-  margin              : 0;
-  left                : 437px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-start1720 .bp4-electriclightbulbsvgrepocom .bp4-path {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 29px;
-  height              : 50px;
-  width               : 50px;
-  position            : absolute;
-  margin              : 0;
-  left                : 77px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-start1720 .bp4-electriclightbulbsvgrepocom .bp4-path1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 7px;
-  height              : 155px;
-  width               : 135px;
-  position            : absolute;
-  margin              : 0;
-  left                : 58px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-start1720 .bp4-electriclightbulbsvgrepocom .bp4-shape {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 165px;
-  height              : 25px;
-  width               : 81px;
-  position            : absolute;
-  margin              : 0;
-  left                : 85px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-start1720 .bp4-electriclightbulbsvgrepocom .bp4-path2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 196px;
-  height              : 32px;
-  width               : 56px;
-  position            : absolute;
-  margin              : 0;
-  left                : 98px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-start1720 .bp4-electriclightbulbsvgrepocom .bp4-path3 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 125px;
-  height              : 31px;
-  width               : 39px;
-  position            : absolute;
-  margin              : 0;
-  left                : 191px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-start1720 .bp4-electriclightbulbsvgrepocom .bp4-path4 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 32px;
-  width               : 39px;
-  position            : absolute;
-  margin              : 0;
-  left                : 22px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-start1720 .bp4-electriclightbulbsvgrepocom .bp4-path5 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 124px;
-  height              : 32px;
-  width               : 41px;
-  position            : absolute;
-  margin              : 0;
-  left                : 21px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-start1720 .bp4-electriclightbulbsvgrepocom .bp4-path6 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 30px;
-  width               : 37px;
-  position            : absolute;
-  margin              : 0;
-  left                : 193px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-start1720 .bp4-electriclightbulbsvgrepocom .bp4-path7 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 74px;
-  height              : 9px;
-  width               : 42px;
-  position            : absolute;
-  margin              : 0;
-  left                : 208px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-start1720 .bp4-electriclightbulbsvgrepocom .bp4-path8 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 74px;
-  height              : 9px;
-  width               : 44px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-start1720 .bp4-footer {
-  background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 1034px;
-  height              : 361px;
-  width               : 2526px;
-  position            : absolute;
-  margin              : 0;
-  left                : -429px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-start1720 .bp4-iconmonstrlinkedin5 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1102px;
-  height              : 37px;
-  width               : 37px;
-  position            : absolute;
-  margin              : 0;
-  left                : 340px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-start1720 .bp4-iconmonstrlinkedin5 .bp4-shape {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 37px;
-  width               : 37px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-start1720 .bp4-linkedin {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1105px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 384px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Avenir-Book", Helvetica, Arial, serif;
-  font-size           : 24.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 33.0px;
-}
-.bp4-start1720 .bp4-lipbochudgmailcom {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1105px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 1078px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Avenir-Book", Helvetica, Arial, serif;
-  font-size           : 24.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 33.0px;
-}
-.bp4-start1720 .bp4-behance {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1105px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 639px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Avenir-Book", Helvetica, Arial, serif;
-  font-size           : 24.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 33.0px;
-}
-.bp4-start1720 .bp4-iconmonstrbehance5 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1102px;
-  height              : 37px;
-  width               : 37px;
-  position            : absolute;
-  margin              : 0;
-  left                : 595px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-start1720 .bp4-iconmonstrbehance5 .bp4-shape {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 37px;
-  width               : 37px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-start1720 .bp4-iconmonstrgmail5 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1102px;
-  height              : 37px;
-  width               : 37px;
-  position            : absolute;
-  margin              : 0;
-  left                : 1034px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-start1720 .bp4-iconmonstrgmail5 .bp4-shape {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 37px;
-  width               : 37px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-start1720 .bp4-navbar {
-  background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 1px;
-  height              : 112px;
-  width               : 2839px;
-  position            : absolute;
-  margin              : 0;
-  left                : -568px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-start1720 .bp4-rectangle {
-  background-color    : rgba(71, 181, 250, 1.0);
-  top                 : 1px;
-  height              : 112px;
-  width               : 202px;
-  position            : absolute;
-  margin              : 0;
-  left                : 303px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  opacity             : 0.0;
-  transition          : all 0.2s ease-in-out;
-}
-.bp4-start1720 .bp4-rectangle:hover {
-  opacity             : 1;
-}
-.bp4-start1720 .bp4-rectanglecopy {
-  background-color    : rgba(71, 181, 250, 1.0);
-  top                 : 1px;
-  height              : 112px;
-  width               : 202px;
-  position            : absolute;
-  margin              : 0;
-  left                : 510px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  opacity             : 0.0;
-  transition          : all 0.2s ease-in-out;
-}
-.bp4-start1720 .bp4-rectanglecopy:hover {
-  opacity             : 1;
-}
-.bp4-start1720 .bp4-rectanglecopy3 {
-  background-color    : rgba(71, 181, 250, 1.0);
-  top                 : 1px;
-  height              : 112px;
-  width               : 202px;
-  position            : absolute;
-  margin              : 0;
-  left                : 1016px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  opacity             : 0.0;
-  transition          : all 0.2s ease-in-out;
-}
-.bp4-start1720 .bp4-rectanglecopy3:hover {
-  opacity             : 1;
-}
-.bp4-start1720 .bp4-portfoliohangover {
-  background-color    : rgba(71, 181, 250, 1.0);
-  top                 : 1px;
-  height              : 112px;
-  width               : 202px;
-  position            : absolute;
-  margin              : 0;
-  left                : 303px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  opacity             : 0.0;
-}
-.bp4-start1720 .bp4-portfoliohangovercopy {
-  background-color    : rgba(71, 181, 250, 1.0);
-  top                 : 1px;
-  height              : 112px;
-  width               : 202px;
-  position            : absolute;
-  margin              : 0;
-  left                : 510px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  opacity             : 0.0;
-}
-.bp4-start1720 .bp4-portfoliohangovercopy2 {
-  background-color    : rgba(71, 181, 250, 1.0);
-  top                 : 1px;
-  height              : 112px;
-  width               : 202px;
-  position            : absolute;
-  margin              : 0;
-  left                : 1016px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  opacity             : 0.0;
-}
-.bp4-start1720 .bp4-portfolio {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 40px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 336px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Avenir-Light", Helvetica, Arial, serif;
-  font-size           : 24.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 33.0px;
-}
-.bp4-start1720 .bp4-resume {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 40px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 563px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Avenir-Light", Helvetica, Arial, serif;
-  font-size           : 24.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 33.0px;
-}
-.bp4-start1720 .bp4-aboutme {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 40px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 1054px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Avenir-Light", Helvetica, Arial, serif;
-  font-size           : 24.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 33.0px;
-}
-.bp4-start1720 .bp4-glassesright150 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 31px;
-  height              : 51px;
-  width               : 139px;
-  position            : absolute;
-  margin              : 0;
-  left                : 791px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp4-start1720 .bp4-rectanglecopy2 {
-  background-color    : rgba(71, 181, 250, 1.0);
-  top                 : 0px;
-  height              : 112px;
-  width               : 202px;
-  position            : absolute;
-  margin              : 0;
-  left                : 1223px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  opacity             : 0.0;
-  transition          : all 0.2s ease-in-out;
-}
-.bp4-start1720 .bp4-rectanglecopy2:hover {
-  opacity             : 1;
-}
-.bp4-start1720 .bp4-portfoliohangovercopy3 {
-  background-color    : rgba(71, 181, 250, 1.0);
-  top                 : 1px;
-  height              : 112px;
-  width               : 202px;
-  position            : absolute;
-  margin              : 0;
-  left                : 1223px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  opacity             : 0.0;
-}
-.bp4-start1720 .bp4-linkedin1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 40px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 1268px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Avenir-Light", Helvetica, Arial, serif;
-  font-size           : 24.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 33.0px;
-}
-/* .anima-animate-appear prefix for appear animations */
-.anima-animate-appear {
-  opacity             : 0;
-  display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
-  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
-}
-.anima-animate-disappear {
-  opacity             : 1;
-  display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-}
-.anima-animate-nodelay {
-  -webkit-animation-delay: 0;
-  -moz-animation-delay: 0;
-  -o-animation-delay  : 0;
-  animation-delay     : 0;
-}
-@-webkit-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-moz-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-o-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-.bp2-start1092 {
-  width               : 100%;
-  min-width           : 1092px;
-  height              : 100vh;
-  min-height          : 1208px;
-  position            : relative;
-  overflow            : hidden;
-  margin              : 0px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background-color    : rgba(71, 181, 250, 1.0);
-}
-div {
-  -webkit-text-size-adjust: none;
-}
-.bp2-start1092 .bp2-navbar {
-  background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 0px;
-  height              : 112px;
-  width               : 1440px;
-  position            : absolute;
-  margin              : 0;
-  left                : -168px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp2-start1092 .bp2-portfolio {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 40px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 90px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Avenir-Light", Helvetica, Arial, serif;
-  font-size           : 24.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 33.0px;
-}
-.bp2-start1092 .bp2-resume {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 39px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 322px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Avenir-Light", Helvetica, Arial, serif;
-  font-size           : 24.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 33.0px;
-}
-.bp2-start1092 .bp2-aboutme {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 39px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 685px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Avenir-Light", Helvetica, Arial, serif;
-  font-size           : 24.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 33.0px;
-}
-.bp2-start1092 .bp2-linkedin {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 40px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 896px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Avenir-Light", Helvetica, Arial, serif;
-  font-size           : 24.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 33.0px;
-}
-.bp2-start1092 .bp2-hiiu2019mfelipe {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 225px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 85px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Ayuthaya", Helvetica, Arial, serif;
-  font-size           : 70.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : center;
-  line-height         : 97.0px;
-}
-.bp2-start1092 .bp2-apassionateuxdesi {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 334px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 83px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Ayuthaya", Helvetica, Arial, serif;
-  font-size           : 50.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  line-height         : 69.0px;
-}
-.bp2-start1092 .bp2-electriclightbulbsvgrepocom {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 585px;
-  height              : 228px;
-  width               : 250px;
-  position            : absolute;
-  margin              : 0;
-  left                : 91px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp2-start1092 .bp2-electriclightbulbsvgrepocom .bp2-path {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 29px;
-  height              : 50px;
-  width               : 50px;
-  position            : absolute;
-  margin              : 0;
-  left                : 77px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp2-start1092 .bp2-electriclightbulbsvgrepocom .bp2-path1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 7px;
-  height              : 155px;
-  width               : 135px;
-  position            : absolute;
-  margin              : 0;
-  left                : 58px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp2-start1092 .bp2-electriclightbulbsvgrepocom .bp2-shape {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 165px;
-  height              : 25px;
-  width               : 81px;
-  position            : absolute;
-  margin              : 0;
-  left                : 85px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp2-start1092 .bp2-electriclightbulbsvgrepocom .bp2-path2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 196px;
-  height              : 32px;
-  width               : 56px;
-  position            : absolute;
-  margin              : 0;
-  left                : 98px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp2-start1092 .bp2-electriclightbulbsvgrepocom .bp2-path3 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 125px;
-  height              : 31px;
-  width               : 39px;
-  position            : absolute;
-  margin              : 0;
-  left                : 191px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp2-start1092 .bp2-electriclightbulbsvgrepocom .bp2-path4 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 32px;
-  width               : 39px;
-  position            : absolute;
-  margin              : 0;
-  left                : 22px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp2-start1092 .bp2-electriclightbulbsvgrepocom .bp2-path5 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 124px;
-  height              : 32px;
-  width               : 41px;
-  position            : absolute;
-  margin              : 0;
-  left                : 21px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp2-start1092 .bp2-electriclightbulbsvgrepocom .bp2-path6 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 30px;
-  width               : 37px;
-  position            : absolute;
-  margin              : 0;
-  left                : 193px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp2-start1092 .bp2-electriclightbulbsvgrepocom .bp2-path7 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 74px;
-  height              : 9px;
-  width               : 42px;
-  position            : absolute;
-  margin              : 0;
-  left                : 208px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp2-start1092 .bp2-electriclightbulbsvgrepocom .bp2-path8 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 74px;
-  height              : 9px;
-  width               : 44px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp2-start1092 .bp2-footer {
-  background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 1034px;
-  height              : 174px;
-  width               : 1440px;
-  position            : absolute;
-  margin              : 0;
-  left                : -168px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp2-start1092 .bp2-glassesright150 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 31px;
-  height              : 51px;
-  width               : 139px;
-  position            : absolute;
-  margin              : 0;
-  left                : 483px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp2-start1092 .bp2-iconmonstrlinkedin5 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1100px;
-  height              : 37px;
-  width               : 37px;
-  position            : absolute;
-  margin              : 0;
-  left                : 91px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp2-start1092 .bp2-iconmonstrlinkedin5 .bp2-shape {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 37px;
-  width               : 37px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp2-start1092 .bp2-linkedin1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1103px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 135px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Avenir-Book", Helvetica, Arial, serif;
-  font-size           : 24.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 33.0px;
-}
-.bp2-start1092 .bp2-lipbochudgmailcom {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1102px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 704px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Avenir-Book", Helvetica, Arial, serif;
-  font-size           : 24.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 33.0px;
-}
-.bp2-start1092 .bp2-behance {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1103px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 386px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Avenir-Book", Helvetica, Arial, serif;
-  font-size           : 24.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 33.0px;
-}
-.bp2-start1092 .bp2-iconmonstrbehance5 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1100px;
-  height              : 37px;
-  width               : 37px;
-  position            : absolute;
-  margin              : 0;
-  left                : 342px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp2-start1092 .bp2-iconmonstrbehance5 .bp2-shape {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 37px;
-  width               : 37px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp2-start1092 .bp2-iconmonstrgmail5 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1099px;
-  height              : 37px;
-  width               : 37px;
-  position            : absolute;
-  margin              : 0;
-  left                : 660px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp2-start1092 .bp2-iconmonstrgmail5 .bp2-shape {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 37px;
-  width               : 37px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-/* .anima-animate-appear prefix for appear animations */
-.anima-animate-appear {
-  opacity             : 0;
-  display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
-  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
-}
-.anima-animate-disappear {
-  opacity             : 1;
-  display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-}
-.anima-animate-nodelay {
-  -webkit-animation-delay: 0;
-  -moz-animation-delay: 0;
-  -o-animation-delay  : 0;
-  animation-delay     : 0;
-}
-@-webkit-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-moz-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-o-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-.bp1-start1920 {
-  width               : 100%;
-  min-width           : 1920px;
-  height              : 100vh;
-  min-height          : 1208px;
-  position            : relative;
-  overflow            : hidden;
-  margin              : 0px;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background-color    : rgba(71, 181, 250, 1.0);
-}
-div {
-  -webkit-text-size-adjust: none;
-}
-.bp1-start1920 .bp1-hiiu2019mfelipe {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 225px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 436px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Ayuthaya", Helvetica, Arial, serif;
-  font-size           : 70.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : center;
-  line-height         : 97.0px;
-}
-.bp1-start1920 .bp1-apassionateuxdesi {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 336px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 437px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Ayuthaya", Helvetica, Arial, serif;
-  font-size           : 50.0px;
-  color               : rgba(255, 255, 255, 1.0);
-  text-align          : left;
-  line-height         : 69.0px;
-}
-.bp1-start1920 .bp1-electriclightbulbsvgrepocom {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 587px;
-  height              : 228px;
-  width               : 250px;
-  position            : absolute;
-  margin              : 0;
-  left                : 437px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-start1920 .bp1-electriclightbulbsvgrepocom .bp1-path {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 29px;
-  height              : 50px;
-  width               : 50px;
-  position            : absolute;
-  margin              : 0;
-  left                : 77px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-start1920 .bp1-electriclightbulbsvgrepocom .bp1-path1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 7px;
-  height              : 155px;
-  width               : 135px;
-  position            : absolute;
-  margin              : 0;
-  left                : 58px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-start1920 .bp1-electriclightbulbsvgrepocom .bp1-shape {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 165px;
-  height              : 25px;
-  width               : 81px;
-  position            : absolute;
-  margin              : 0;
-  left                : 85px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-start1920 .bp1-electriclightbulbsvgrepocom .bp1-path2 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 196px;
-  height              : 32px;
-  width               : 56px;
-  position            : absolute;
-  margin              : 0;
-  left                : 98px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-start1920 .bp1-electriclightbulbsvgrepocom .bp1-path3 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 125px;
-  height              : 31px;
-  width               : 39px;
-  position            : absolute;
-  margin              : 0;
-  left                : 191px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-start1920 .bp1-electriclightbulbsvgrepocom .bp1-path4 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 32px;
-  width               : 39px;
-  position            : absolute;
-  margin              : 0;
-  left                : 22px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-start1920 .bp1-electriclightbulbsvgrepocom .bp1-path5 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 124px;
-  height              : 32px;
-  width               : 41px;
-  position            : absolute;
-  margin              : 0;
-  left                : 21px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-start1920 .bp1-electriclightbulbsvgrepocom .bp1-path6 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 30px;
-  width               : 37px;
-  position            : absolute;
-  margin              : 0;
-  left                : 193px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-start1920 .bp1-electriclightbulbsvgrepocom .bp1-path7 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 74px;
-  height              : 9px;
-  width               : 42px;
-  position            : absolute;
-  margin              : 0;
-  left                : 208px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-start1920 .bp1-electriclightbulbsvgrepocom .bp1-path8 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 74px;
-  height              : 9px;
-  width               : 44px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-start1920 .bp1-footer {
-  background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 1034px;
-  height              : 354px;
-  width               : 2910px;
-  position            : absolute;
-  margin              : 0;
-  left                : -539px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-start1920 .bp1-navbar {
-  background-color    : rgba(255, 255, 255, 1.0);
-  top                 : 0px;
-  height              : 112px;
-  width               : 2839px;
-  position            : absolute;
-  margin              : 0;
-  left                : -468px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-start1920 .bp1-rectangle {
-  background-color    : rgba(71, 181, 250, 1.0);
-  top                 : 0px;
-  height              : 112px;
-  width               : 202px;
-  position            : absolute;
-  margin              : 0;
-  left                : 403px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  opacity             : 0.0;
-  transition          : all 0.2s ease-in-out;
-}
-.bp1-start1920 .bp1-rectangle:hover {
-  opacity             : 1;
-}
-.bp1-start1920 .bp1-rectanglecopy {
-  background-color    : rgba(71, 181, 250, 1.0);
-  top                 : 0px;
-  height              : 112px;
-  width               : 202px;
-  position            : absolute;
-  margin              : 0;
-  left                : 610px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  opacity             : 0.0;
-  transition          : all 0.2s ease-in-out;
-}
-.bp1-start1920 .bp1-rectanglecopy:hover {
-  opacity             : 1;
-}
-.bp1-start1920 .bp1-rectanglecopy2 {
-  background-color    : rgba(71, 181, 250, 1.0);
-  top                 : -1px;
-  height              : 112px;
-  width               : 202px;
-  position            : absolute;
-  margin              : 0;
-  left                : 1323px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  opacity             : 0.0;
-  transition          : all 0.2s ease-in-out;
-}
-.bp1-start1920 .bp1-rectanglecopy2:hover {
-  opacity             : 1;
-}
-.bp1-start1920 .bp1-rectanglecopy3 {
-  background-color    : rgba(71, 181, 250, 1.0);
-  top                 : 0px;
-  height              : 112px;
-  width               : 202px;
-  position            : absolute;
-  margin              : 0;
-  left                : 1116px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  opacity             : 0.0;
-  transition          : all 0.2s ease-in-out;
-}
-.bp1-start1920 .bp1-rectanglecopy3:hover {
-  opacity             : 1;
-}
-.bp1-start1920 .bp1-portfoliohangover {
-  background-color    : rgba(71, 181, 250, 1.0);
-  top                 : 0px;
-  height              : 112px;
-  width               : 202px;
-  position            : absolute;
-  margin              : 0;
-  left                : 403px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  opacity             : 0.0;
-}
-.bp1-start1920 .bp1-portfoliohangovercopy {
-  background-color    : rgba(71, 181, 250, 1.0);
-  top                 : 0px;
-  height              : 112px;
-  width               : 202px;
-  position            : absolute;
-  margin              : 0;
-  left                : 610px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  opacity             : 0.0;
-}
-.bp1-start1920 .bp1-portfoliohangovercopy2 {
-  background-color    : rgba(71, 181, 250, 1.0);
-  top                 : 0px;
-  height              : 112px;
-  width               : 202px;
-  position            : absolute;
-  margin              : 0;
-  left                : 1116px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  opacity             : 0.0;
-}
-.bp1-start1920 .bp1-portfoliohangovercopy3 {
-  background-color    : rgba(71, 181, 250, 1.0);
-  top                 : 0px;
-  height              : 112px;
-  width               : 202px;
-  position            : absolute;
-  margin              : 0;
-  left                : 1323px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  opacity             : 0.0;
-}
-.bp1-start1920 .bp1-portfolio {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 39px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 436px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Avenir-Light", Helvetica, Arial, serif;
-  font-size           : 24.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 33.0px;
-}
-.bp1-start1920 .bp1-resume {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 39px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 663px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Avenir-Light", Helvetica, Arial, serif;
-  font-size           : 24.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 33.0px;
-}
-.bp1-start1920 .bp1-aboutme {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 39px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 1154px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Avenir-Light", Helvetica, Arial, serif;
-  font-size           : 24.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 33.0px;
-}
-.bp1-start1920 .bp1-linkedin {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 39px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 1368px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Avenir-Light", Helvetica, Arial, serif;
-  font-size           : 24.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 33.0px;
-}
-.bp1-start1920 .bp1-glassesright150 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 30px;
-  height              : 51px;
-  width               : 139px;
-  position            : absolute;
-  margin              : 0;
-  left                : 891px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-start1920 .bp1-iconmonstrlinkedin5 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1102px;
-  height              : 37px;
-  width               : 37px;
-  position            : absolute;
-  margin              : 0;
-  left                : 440px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-start1920 .bp1-iconmonstrlinkedin5 .bp1-shape {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 37px;
-  width               : 37px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-start1920 .bp1-linkedin1 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1105px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 484px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Avenir-Book", Helvetica, Arial, serif;
-  font-size           : 24.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 33.0px;
-}
-.bp1-start1920 .bp1-lipbochudgmailcom {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1105px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 1178px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Avenir-Book", Helvetica, Arial, serif;
-  font-size           : 24.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 33.0px;
-}
-.bp1-start1920 .bp1-behance {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1105px;
-  height              : auto;
-  width               : auto;
-  position            : absolute;
-  margin              : 0;
-  left                : 739px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-  font-family         : "Avenir-Book", Helvetica, Arial, serif;
-  font-size           : 24.0px;
-  color               : rgba(0, 0, 0, 1.0);
-  text-align          : center;
-  line-height         : 33.0px;
-}
-.bp1-start1920 .bp1-iconmonstrbehance5 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1102px;
-  height              : 37px;
-  width               : 37px;
-  position            : absolute;
-  margin              : 0;
-  left                : 695px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-start1920 .bp1-iconmonstrbehance5 .bp1-shape {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 37px;
-  width               : 37px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-start1920 .bp1-iconmonstrgmail5 {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1102px;
-  height              : 37px;
-  width               : 37px;
-  position            : absolute;
-  margin              : 0;
-  left                : 1134px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-.bp1-start1920 .bp1-iconmonstrgmail5 .bp1-shape {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 0px;
-  height              : 37px;
-  width               : 37px;
-  position            : absolute;
-  margin              : 0;
-  left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
-  transform           : rotate(0deg);
-}
-/* .anima-animate-appear prefix for appear animations */
-.anima-animate-appear {
-  opacity             : 0;
-  display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
-  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
-}
-.anima-animate-disappear {
-  opacity             : 1;
-  display             : block;
-  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
-  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
-}
-.anima-animate-nodelay {
-  -webkit-animation-delay: 0;
-  -moz-animation-delay: 0;
-  -o-animation-delay  : 0;
-  animation-delay     : 0;
-}
-@-webkit-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-moz-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@-o-keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
-}
-@keyframes anima-reveal {
-  0%
-   
-  {
-      opacity: 0;
-    }
-  
-    
-  100%
-   
-  {
-      opacity: 1;
-    }
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
 }
 @media screen and (max-width: 1439px) {
   .bp2-start1092 {

@@ -1,7 +1,7 @@
 
 @font-face {
-                          font-family: "Ayuthaya";
-                          src: url('../fonts/Ayuthaya.ttf') format("truetype");
+                          font-family: "OpenSans-Regular";
+                          src: url('../fonts/OpenSans-Regular.ttf') format("truetype");
                         }
                         
 .cheffigura {
@@ -15,6 +15,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
 }
 a {
   text-decoration     : none;
@@ -39,9 +40,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 379px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .cheffigura .navbar {
   background-color    : rgba(255, 255, 255, 1.0);
@@ -51,9 +51,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .cheffigura .portfolio {
   background-color    : rgba(255,255,255,0.0);
@@ -63,9 +62,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 196px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Light", Helvetica, Arial, serif;
   font-size           : 24.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -80,9 +78,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 441px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Light", Helvetica, Arial, serif;
   font-size           : 24.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -97,9 +94,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 914px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Light", Helvetica, Arial, serif;
   font-size           : 24.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -114,9 +110,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 1128px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Light", Helvetica, Arial, serif;
   font-size           : 24.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -131,9 +126,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 197px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .cheffigura .toolsused {
   background-color    : rgba(255,255,255,0.0);
@@ -143,14 +137,13 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 622px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
-  font-family         : "Helvetica", Helvetica, Arial, serif;
+  opacity             : 1.0;
+  font-family         : "OpenSans-Regular", Helvetica, Arial, serif;
   font-size           : 40.0px;
   color               : rgba(0, 0, 0, 1.0);
   text-align          : center;
-  line-height         : 48.0px;
+  line-height         : 55.0px;
 }
 .cheffigura .screenshot20190821at60532pm {
   background-color    : rgba(255,255,255,0.0);
@@ -160,9 +153,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 472px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .cheffigura .footer {
   background-color    : rgba(255, 255, 255, 1.0);
@@ -172,9 +164,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .cheffigura .glassesright150 {
   background-color    : rgba(255,255,255,0.0);
@@ -184,9 +175,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 651px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .cheffigura .iconmonstrlinkedin5 {
   background-color    : rgba(255,255,255,0.0);
@@ -196,9 +186,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 200px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .cheffigura .iconmonstrlinkedin5 .shape {
   background-color    : rgba(255,255,255,0.0);
@@ -208,9 +197,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .cheffigura .linkedin1 {
   background-color    : rgba(255,255,255,0.0);
@@ -220,9 +208,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 244px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Book", Helvetica, Arial, serif;
   font-size           : 24.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -237,9 +224,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 938px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Book", Helvetica, Arial, serif;
   font-size           : 24.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -254,9 +240,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 499px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Book", Helvetica, Arial, serif;
   font-size           : 24.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -271,9 +256,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 455px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .cheffigura .iconmonstrbehance5 .shape {
   background-color    : rgba(255,255,255,0.0);
@@ -283,9 +267,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .cheffigura .iconmonstrgmail5 {
   background-color    : rgba(255,255,255,0.0);
@@ -295,9 +278,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 894px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .cheffigura .iconmonstrgmail5 .shape {
   background-color    : rgba(255,255,255,0.0);
@@ -307,9 +289,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
@@ -389,4 +370,35 @@ div {
   {
       opacity: 1;
     }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
 }

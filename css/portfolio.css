@@ -1,20 +1,21 @@
 
 @font-face {
-                          font-family: "Ayuthaya";
-                          src: url('../fonts/Ayuthaya.ttf') format("truetype");
+                          font-family: "OpenSans-Regular";
+                          src: url('../fonts/OpenSans-Regular.ttf') format("truetype");
                         }
                         
 .bp1-portfolio {
   width               : 100%;
   min-width           : 1440px;
   height              : 100vh;
-  min-height          : 2409px;
+  min-height          : 2216px;
   position            : relative;
   overflow            : hidden;
   margin              : 0px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
 }
 a {
   text-decoration     : none;
@@ -39,9 +40,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .bp1-portfolio .bp1-glassesright150 {
   background-color    : rgba(255,255,255,0.0);
@@ -51,9 +51,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 651px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .bp1-portfolio .bp1-rectangle {
   background-color    : rgba(71, 181, 250, 1.0);
@@ -63,9 +62,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 163px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .bp1-portfolio .bp1-portfolio1 {
   background-color    : rgba(255,255,255,0.0);
@@ -75,9 +73,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 196px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Light", Helvetica, Arial, serif;
   font-size           : 24.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -92,9 +89,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 441px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Light", Helvetica, Arial, serif;
   font-size           : 24.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -109,9 +105,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 914px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Light", Helvetica, Arial, serif;
   font-size           : 24.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -126,31 +121,29 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 1128px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Light", Helvetica, Arial, serif;
   font-size           : 24.0px;
   color               : rgba(0, 0, 0, 1.0);
   text-align          : center;
   line-height         : 33.0px;
 }
-.bp1-portfolio .bp1-futureprojectswill {
+.bp1-portfolio .bp1-formoreprojectsv {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 1929px;
+  top                 : 1892px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
-  left                : 291px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  left                : 333px;
   transform           : rotate(0deg);
-  font-family         : "Ayuthaya", Helvetica, Arial, serif;
+  opacity             : 1.0;
+  font-family         : "Futura-Medium", Helvetica, Arial, serif;
   font-size           : 40.0px;
   color               : rgba(0, 0, 0, 1.0);
   text-align          : center;
-  line-height         : 56.0px;
+  line-height         : 53.0px;
 }
 .bp1-portfolio .bp1-stanfordprojectcover {
   background-color    : rgba(255,255,255,0.0);
@@ -160,9 +153,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 198px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .bp1-portfolio .bp1-cloverprojectcover {
   background-color    : rgba(255,255,255,0.0);
@@ -172,9 +164,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 198px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .bp1-portfolio .bp1-cloverprojectcoverblue {
   background-color    : rgba(255,255,255,0.0);
@@ -184,11 +175,12 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 198px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   opacity             : 0.0;
   transition          : all 0.2s ease-in-out;
+}
+.bp1-portfolio .bp1-cloverprojectcoverblue {
+  pointer-events      : auto;
 }
 .bp1-portfolio .bp1-cloverprojectcoverblue:hover {
   opacity             : 1;
@@ -201,11 +193,12 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 198px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   opacity             : 0.0;
   transition          : all 0.2s ease-in-out;
+}
+.bp1-portfolio .bp1-cloverprojectcoverblue2 {
+  pointer-events      : auto;
 }
 .bp1-portfolio .bp1-cloverprojectcoverblue2:hover {
   opacity             : 1;
@@ -218,9 +211,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 198px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .bp1-portfolio .bp1-cheffiguracoverblue {
   background-color    : rgba(255,255,255,0.0);
@@ -230,11 +222,12 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 198px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   opacity             : 0.0;
   transition          : all 0.2s ease-in-out;
+}
+.bp1-portfolio .bp1-cheffiguracoverblue {
+  pointer-events      : auto;
 }
 .bp1-portfolio .bp1-cheffiguracoverblue:hover {
   opacity             : 1;
@@ -247,9 +240,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 198px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .bp1-portfolio .bp1-clippercoverwebsiteblue {
   background-color    : rgba(255,255,255,0.0);
@@ -259,26 +251,26 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 198px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
   opacity             : 0.0;
   transition          : all 0.2s ease-in-out;
+}
+.bp1-portfolio .bp1-clippercoverwebsiteblue {
+  pointer-events      : auto;
 }
 .bp1-portfolio .bp1-clippercoverwebsiteblue:hover {
   opacity             : 1;
 }
 .bp1-portfolio .bp1-iconmonstrlinkedin5 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 2304px;
+  top                 : 2093px;
   height              : 37px;
   width               : 37px;
   position            : absolute;
   margin              : 0;
   left                : 200px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .bp1-portfolio .bp1-iconmonstrlinkedin5 .bp1-shape {
   background-color    : rgba(255,255,255,0.0);
@@ -288,21 +280,19 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .bp1-portfolio .bp1-linkedin1 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 2307px;
+  top                 : 2096px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
   left                : 244px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Book", Helvetica, Arial, serif;
   font-size           : 24.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -311,15 +301,14 @@ div {
 }
 .bp1-portfolio .bp1-lipbochudgmailcom {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 2307px;
+  top                 : 2096px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
   left                : 938px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Book", Helvetica, Arial, serif;
   font-size           : 24.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -328,15 +317,14 @@ div {
 }
 .bp1-portfolio .bp1-behance {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 2307px;
+  top                 : 2096px;
   height              : auto;
   width               : auto;
   position            : absolute;
   margin              : 0;
   left                : 499px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Book", Helvetica, Arial, serif;
   font-size           : 24.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -345,15 +333,14 @@ div {
 }
 .bp1-portfolio .bp1-iconmonstrbehance5 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 2304px;
+  top                 : 2093px;
   height              : 37px;
   width               : 37px;
   position            : absolute;
   margin              : 0;
   left                : 455px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .bp1-portfolio .bp1-iconmonstrbehance5 .bp1-shape {
   background-color    : rgba(255,255,255,0.0);
@@ -363,21 +350,19 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .bp1-portfolio .bp1-iconmonstrgmail5 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 2304px;
+  top                 : 2093px;
   height              : 37px;
   width               : 37px;
   position            : absolute;
   margin              : 0;
   left                : 894px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .bp1-portfolio .bp1-iconmonstrgmail5 .bp1-shape {
   background-color    : rgba(255,255,255,0.0);
@@ -387,9 +372,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
@@ -469,4 +453,35 @@ div {
   {
       opacity: 1;
     }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
 }

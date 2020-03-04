@@ -1,7 +1,7 @@
 
 @font-face {
-                          font-family: "Ayuthaya";
-                          src: url('../fonts/Ayuthaya.ttf') format("truetype");
+                          font-family: "OpenSans-Regular";
+                          src: url('../fonts/OpenSans-Regular.ttf') format("truetype");
                         }
                         
 .aboutme {
@@ -15,6 +15,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
 }
 a {
   text-decoration     : none;
@@ -39,9 +40,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .aboutme .glassesright150 {
   background-color    : rgba(255,255,255,0.0);
@@ -51,9 +51,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 651px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .aboutme .headerselection {
   background-color    : rgba(71, 181, 250, 1.0);
@@ -63,9 +62,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 876px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .aboutme .frame {
   background-color    : rgba(71, 181, 250, 1.0);
@@ -75,9 +73,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 758px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .aboutme .portfolio {
   background-color    : rgba(255,255,255,0.0);
@@ -87,9 +84,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 197px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Light", Helvetica, Arial, serif;
   font-size           : 24.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -104,9 +100,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 442px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Light", Helvetica, Arial, serif;
   font-size           : 24.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -121,9 +116,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 915px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Light", Helvetica, Arial, serif;
   font-size           : 24.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -138,9 +132,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 1129px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Light", Helvetica, Arial, serif;
   font-size           : 24.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -155,9 +148,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 197px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Book", Helvetica, Arial, serif;
   font-size           : 20.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -172,11 +164,10 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 780px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
-.aboutme .himynameisfelip {
+.aboutme .himynameisnick {
   background-color    : rgba(255,255,255,0.0);
   top                 : 150px;
   height              : auto;
@@ -184,19 +175,18 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 200px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Ayuthaya", Helvetica, Arial, serif;
   font-size           : 40.0px;
   color               : rgba(0, 0, 0, 1.0);
   text-align          : left;
   line-height         : 20.0px;
 }
-.aboutme .himynameisfelip .span1 {
+.aboutme .himynameisnick .span1 {
   line-height         : 56.0px;
 }
-.aboutme .himynameisfelip .span2 {
+.aboutme .himynameisnick .span2 {
   font-family         : "Avenir-Book", Helvetica, Arial, serif;
   font-size           : 20.0px;
   line-height         : 27.0px;
@@ -209,9 +199,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .aboutme .iconmonstrlinkedin5 {
   background-color    : rgba(255,255,255,0.0);
@@ -221,9 +210,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 200px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .aboutme .iconmonstrlinkedin5 .shape {
   background-color    : rgba(255,255,255,0.0);
@@ -233,9 +221,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .aboutme .linkedin1 {
   background-color    : rgba(255,255,255,0.0);
@@ -245,9 +232,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 244px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Book", Helvetica, Arial, serif;
   font-size           : 24.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -262,9 +248,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 938px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Book", Helvetica, Arial, serif;
   font-size           : 24.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -279,9 +264,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 499px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
   font-family         : "Avenir-Book", Helvetica, Arial, serif;
   font-size           : 24.0px;
   color               : rgba(0, 0, 0, 1.0);
@@ -296,9 +280,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 455px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .aboutme .iconmonstrbehance5 .shape {
   background-color    : rgba(255,255,255,0.0);
@@ -308,9 +291,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .aboutme .iconmonstrgmail5 {
   background-color    : rgba(255,255,255,0.0);
@@ -320,9 +302,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 894px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 .aboutme .iconmonstrgmail5 .shape {
   background-color    : rgba(255,255,255,0.0);
@@ -332,9 +313,8 @@ div {
   position            : absolute;
   margin              : 0;
   left                : 0px;
-  -ms-transform       : rotate(0deg); /* IE 9 */
-  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
   transform           : rotate(0deg);
+  opacity             : 1.0;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {
@@ -414,4 +394,35 @@ div {
   {
       opacity: 1;
     }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
 }
