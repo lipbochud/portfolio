@@ -1,0 +1,693 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400|Libre+Baskerville:400|Raleway:400');
+
+
+.anatomyvr {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 14644px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anatomyvr .navbar {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 112px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .portfolio {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 196px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Light", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.anatomyvr .resume {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 441px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Light", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.anatomyvr .aboutme {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 914px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Light", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.anatomyvr .linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1128px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Light", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.anatomyvr .footer {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 14470px;
+  height              : 174px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .glassesright150 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : 51px;
+  width               : 139px;
+  position            : absolute;
+  margin              : 0;
+  left                : 651px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .iconmonstrlinkedin5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14510px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 187px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .iconmonstrlinkedin5 .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .linkedin1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14513px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 231px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.anatomyvr .lipbochudgmailcom {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14513px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 925px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.anatomyvr .behance {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14513px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 486px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.anatomyvr .iconmonstrbehance5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14510px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 442px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .iconmonstrbehance5 .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .iconmonstrgmail5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14510px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 881px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .iconmonstrgmail5 .shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .screenshot20200304at62156pm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 112px;
+  height              : 650px;
+  width               : 1155px;
+  position            : absolute;
+  margin              : 0;
+  left                : 142px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 112px;
+  height              : 650px;
+  width               : 825px;
+  position            : absolute;
+  margin              : 0;
+  left                : 472px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .screenshot20200304at94928pm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 762px;
+  height              : 649px;
+  width               : 1155px;
+  position            : absolute;
+  margin              : 0;
+  left                : 142px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .screenshot20200304at95020pm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1412px;
+  height              : 649px;
+  width               : 1154px;
+  position            : absolute;
+  margin              : 0;
+  left                : 143px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .screenshot20200304at95124pm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2061px;
+  height              : 264px;
+  width               : 1152px;
+  position            : absolute;
+  margin              : 0;
+  left                : 142px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .bitmapcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 762px;
+  height              : 650px;
+  width               : 825px;
+  position            : absolute;
+  margin              : 0;
+  left                : 472px;
+  transform           : rotate(0deg);
+  opacity             : 0.34;
+}
+.anatomyvr .screenshot20200304at95247pm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2325px;
+  height              : 649px;
+  width               : 1153px;
+  position            : absolute;
+  margin              : 0;
+  left                : 141px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .screenshot20200304at95331pm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2974px;
+  height              : 647px;
+  width               : 1152px;
+  position            : absolute;
+  margin              : 0;
+  left                : 142px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .screenshot20200304at95421pm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3621px;
+  height              : 649px;
+  width               : 1153px;
+  position            : absolute;
+  margin              : 0;
+  left                : 141px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .screenshot20200304at95544pm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4270px;
+  height              : 645px;
+  width               : 1153px;
+  position            : absolute;
+  margin              : 0;
+  left                : 141px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .screenshot20200304at95845pm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4915px;
+  height              : 647px;
+  width               : 1153px;
+  position            : absolute;
+  margin              : 0;
+  left                : 141px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .anatomyarfirstideas {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5551px;
+  height              : 649px;
+  width               : 1153px;
+  position            : absolute;
+  margin              : 0;
+  left                : 141px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .screenshot20200304at95952pm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6200px;
+  height              : 649px;
+  width               : 1156px;
+  position            : absolute;
+  margin              : 0;
+  left                : 141px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .screenshot20200304at100027pm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7166px;
+  height              : 253px;
+  width               : 845px;
+  position            : absolute;
+  margin              : 0;
+  left                : 302px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .anatomyarquizzes {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7419px;
+  height              : 649px;
+  width               : 1153px;
+  position            : absolute;
+  margin              : 0;
+  left                : 146px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .screenshot20200304at103303pm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8019px;
+  height              : 215px;
+  width               : 801px;
+  position            : absolute;
+  margin              : 0;
+  left                : 323px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .screenshot20200304at103357pm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8234px;
+  height              : 649px;
+  width               : 1153px;
+  position            : absolute;
+  margin              : 0;
+  left                : 148px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .anatomyardarkmodetitle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8916px;
+  height              : 650px;
+  width               : 1155px;
+  position            : absolute;
+  margin              : 0;
+  left                : 147px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .anatomyardarkmode2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9060px;
+  height              : 649px;
+  width               : 1153px;
+  position            : absolute;
+  margin              : 0;
+  left                : 149px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .screenshot20200304at103844pm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9709px;
+  height              : 647px;
+  width               : 1154px;
+  position            : absolute;
+  margin              : 0;
+  left                : 149px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .screenshot20200304at103929pm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10356px;
+  height              : 219px;
+  width               : 842px;
+  position            : absolute;
+  margin              : 0;
+  left                : 315px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .screenshot20200304at103951pm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10540px;
+  height              : 647px;
+  width               : 1154px;
+  position            : absolute;
+  margin              : 0;
+  left                : 149px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .screenshot20200304at104113pm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11187px;
+  height              : 650px;
+  width               : 1154px;
+  position            : absolute;
+  margin              : 0;
+  left                : 146px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .screenshot20200304at104447pm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11818px;
+  height              : 308px;
+  width               : 756px;
+  position            : absolute;
+  margin              : 0;
+  left                : 345px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .anatomyarfirsttimersinstructions {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12087px;
+  height              : 647px;
+  width               : 1149px;
+  position            : absolute;
+  margin              : 0;
+  left                : 149px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .anatomyarscanned1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12734px;
+  height              : 369px;
+  width               : 655px;
+  position            : absolute;
+  margin              : 0;
+  left                : 645px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .anatomyarscanned2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13103px;
+  height              : 369px;
+  width               : 655px;
+  position            : absolute;
+  margin              : 0;
+  left                : 645px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .dribblepost {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6316px;
+  height              : 850px;
+  width               : 1149px;
+  position            : absolute;
+  margin              : 0;
+  left                : 146px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .anatomyarscanned3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13472px;
+  height              : 367px;
+  width               : 652px;
+  position            : absolute;
+  margin              : 0;
+  left                : 645px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .bitmap1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12846px;
+  height              : 810px;
+  width               : 410px;
+  position            : absolute;
+  margin              : 0;
+  left                : 187px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.anatomyvr .screenshot20200304at110936pm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13768px;
+  height              : 648px;
+  width               : 1151px;
+  position            : absolute;
+  margin              : 0;
+  left                : 149px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
