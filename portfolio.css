@@ -1,10 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=PT+Sans:400|Libre+Baskerville:400|Raleway:400');
 
-@font-face {
-                          font-family: "OpenSans-Regular";
-                          src: url('../fonts/OpenSans-Regular.ttf') format("truetype");
-                        }
-                        
+
 .bp1-portfolio {
   width               : 100%;
   min-width           : 1440px;
@@ -150,34 +146,34 @@ div {
 }
 .bp1-portfolio .bp1-stanfordprojectcover {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 975px;
+  top                 : 1388px;
   height              : 357px;
   width               : 1045px;
   position            : absolute;
   margin              : 0;
-  left                : 198px;
+  left                : 195px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
 .bp1-portfolio .bp1-cloverprojectcover {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 568px;
+  top                 : 981px;
   height              : 357px;
   width               : 1045px;
   position            : absolute;
   margin              : 0;
-  left                : 198px;
+  left                : 195px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
 .bp1-portfolio .bp1-cloverprojectcoverblue {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 975px;
+  top                 : 1388px;
   height              : 357px;
   width               : 1045px;
   position            : absolute;
   margin              : 0;
-  left                : 198px;
+  left                : 195px;
   transform           : rotate(0deg);
   opacity             : 0.0;
   transition          : all 0.2s ease-in-out;
@@ -190,12 +186,12 @@ div {
 }
 .bp1-portfolio .bp1-cloverprojectcoverblue2 {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 568px;
+  top                 : 981px;
   height              : 357px;
   width               : 1045px;
   position            : absolute;
   margin              : 0;
-  left                : 198px;
+  left                : 195px;
   transform           : rotate(0deg);
   opacity             : 0.0;
   transition          : all 0.2s ease-in-out;
@@ -206,54 +202,25 @@ div {
 .bp1-portfolio .bp1-cloverprojectcoverblue2:hover {
   opacity             : 1;
 }
-.bp1-portfolio .bp1-cheffiguracover {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1382px;
-  height              : 357px;
-  width               : 1045px;
-  position            : absolute;
-  margin              : 0;
-  left                : 198px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-portfolio .bp1-cheffiguracoverblue {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 1382px;
-  height              : 357px;
-  width               : 1045px;
-  position            : absolute;
-  margin              : 0;
-  left                : 198px;
-  transform           : rotate(0deg);
-  opacity             : 0.0;
-  transition          : all 0.2s ease-in-out;
-}
-.bp1-portfolio .bp1-cheffiguracoverblue {
-  pointer-events      : auto;
-}
-.bp1-portfolio .bp1-cheffiguracoverblue:hover {
-  opacity             : 1;
-}
 .bp1-portfolio .bp1-clippercoverwebsitewhite {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 161px;
+  top                 : 574px;
   height              : 357px;
   width               : 1045px;
   position            : absolute;
   margin              : 0;
-  left                : 198px;
+  left                : 195px;
   transform           : rotate(0deg);
   opacity             : 1.0;
 }
 .bp1-portfolio .bp1-clippercoverwebsiteblue {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 161px;
+  top                 : 574px;
   height              : 357px;
   width               : 1045px;
   position            : absolute;
   margin              : 0;
-  left                : 198px;
+  left                : 195px;
   transform           : rotate(0deg);
   opacity             : 0.0;
   transition          : all 0.2s ease-in-out;
@@ -423,6 +390,35 @@ div {
   color               : rgba(0, 0, 0, 1.0);
   text-align          : center;
   line-height         : 33.0px;
+}
+.bp1-portfolio .bp1-anatomyarwhite {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 167px;
+  height              : 357px;
+  width               : 1045px;
+  position            : absolute;
+  margin              : 0;
+  left                : 198px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-portfolio .bp1-anatomyarblue {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 167px;
+  height              : 357px;
+  width               : 1045px;
+  position            : absolute;
+  margin              : 0;
+  left                : 198px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-portfolio .bp1-anatomyarblue {
+  pointer-events      : auto;
+}
+.bp1-portfolio .bp1-anatomyarblue:hover {
+  opacity             : 1;
 }
 /* .anima-animate-appear prefix for appear animations */
 .anima-animate-appear {

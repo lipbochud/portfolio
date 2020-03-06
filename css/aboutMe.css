@@ -1,10 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=PT+Sans:400|Libre+Baskerville:400|Raleway:400');
 
-@font-face {
-                          font-family: "OpenSans-Regular";
-                          src: url('../fonts/OpenSans-Regular.ttf') format("truetype");
-                        }
-                        
+
 .aboutme {
   width               : 100%;
   min-width           : 1440px;
