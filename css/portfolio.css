@@ -202,35 +202,6 @@ div {
 .bp1-portfolio .bp1-cloverprojectcoverblue2:hover {
   opacity             : 1;
 }
-.bp1-portfolio .bp1-clippercoverwebsitewhite {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 574px;
-  height              : 357px;
-  width               : 1045px;
-  position            : absolute;
-  margin              : 0;
-  left                : 195px;
-  transform           : rotate(0deg);
-  opacity             : 1.0;
-}
-.bp1-portfolio .bp1-clippercoverwebsiteblue {
-  background-color    : rgba(255,255,255,0.0);
-  top                 : 574px;
-  height              : 357px;
-  width               : 1045px;
-  position            : absolute;
-  margin              : 0;
-  left                : 195px;
-  transform           : rotate(0deg);
-  opacity             : 0.0;
-  transition          : all 0.2s ease-in-out;
-}
-.bp1-portfolio .bp1-clippercoverwebsiteblue {
-  pointer-events      : auto;
-}
-.bp1-portfolio .bp1-clippercoverwebsiteblue:hover {
-  opacity             : 1;
-}
 .bp1-portfolio .bp1-iconmonstrlinkedin5 {
   background-color    : rgba(255,255,255,0.0);
   top                 : 2093px;
@@ -393,7 +364,7 @@ div {
 }
 .bp1-portfolio .bp1-anatomyarwhite {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 167px;
+  top                 : 574px;
   height              : 357px;
   width               : 1045px;
   position            : absolute;
@@ -404,7 +375,7 @@ div {
 }
 .bp1-portfolio .bp1-anatomyarblue {
   background-color    : rgba(255,255,255,0.0);
-  top                 : 167px;
+  top                 : 574px;
   height              : 357px;
   width               : 1045px;
   position            : absolute;
@@ -418,6 +389,35 @@ div {
   pointer-events      : auto;
 }
 .bp1-portfolio .bp1-anatomyarblue:hover {
+  opacity             : 1;
+}
+.bp1-portfolio .bp1-clippercardportfolioselectionrecovered {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 167px;
+  height              : 357px;
+  width               : 1045px;
+  position            : absolute;
+  margin              : 0;
+  left                : 198px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-portfolio .bp1-clippercardportfolioselectionblue {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 167px;
+  height              : 357px;
+  width               : 1045px;
+  position            : absolute;
+  margin              : 0;
+  left                : 198px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-portfolio .bp1-clippercardportfolioselectionblue {
+  pointer-events      : auto;
+}
+.bp1-portfolio .bp1-clippercardportfolioselectionblue:hover {
   opacity             : 1;
 }
 /* .anima-animate-appear prefix for appear animations */
