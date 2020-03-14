@@ -1,0 +1,1955 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400|Libre+Baskerville:400|Raleway:400');
+
+
+.bp4-start1720 {
+  width               : 100%;
+  min-width           : 1720px;
+  height              : 100vh;
+  min-height          : 1208px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(71, 181, 250, 1.0);
+  opacity             : 1.0;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp4-start1720 .bp4-hiiu2019mnick {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 225px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 436px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Libre Baskerville", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 70.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 87.0px;
+}
+.bp4-start1720 .bp4-apassionateuxdesi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 339px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 437px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Libre Baskerville", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 50.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 63.0px;
+}
+.bp4-start1720 .bp4-footer {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 1034px;
+  height              : 361px;
+  width               : 2526px;
+  position            : absolute;
+  margin              : 0;
+  left                : -429px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-start1720 .bp4-iconmonstrlinkedin5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1102px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 340px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-start1720 .bp4-iconmonstrlinkedin5 .bp4-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-start1720 .bp4-linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1105px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 384px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp4-start1720 .bp4-lipbochudgmailcom {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1105px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1078px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp4-start1720 .bp4-behance {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1105px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 639px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp4-start1720 .bp4-iconmonstrbehance5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1102px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 595px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-start1720 .bp4-iconmonstrbehance5 .bp4-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-start1720 .bp4-iconmonstrgmail5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1102px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1034px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-start1720 .bp4-iconmonstrgmail5 .bp4-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-start1720 .bp4-navbar {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 112px;
+  width               : 2839px;
+  position            : absolute;
+  margin              : 0;
+  left                : -568px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-start1720 .bp4-rectangle {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 1px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 303px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.bp4-start1720 .bp4-rectangle {
+  pointer-events      : auto;
+}
+.bp4-start1720 .bp4-rectangle:hover {
+  opacity             : 1;
+}
+.bp4-start1720 .bp4-rectanglecopy {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 1px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 510px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.bp4-start1720 .bp4-rectanglecopy {
+  pointer-events      : auto;
+}
+.bp4-start1720 .bp4-rectanglecopy:hover {
+  opacity             : 1;
+}
+.bp4-start1720 .bp4-rectanglecopy3 {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 1px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1016px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.bp4-start1720 .bp4-rectanglecopy3 {
+  pointer-events      : auto;
+}
+.bp4-start1720 .bp4-rectanglecopy3:hover {
+  opacity             : 1;
+}
+.bp4-start1720 .bp4-portfoliohangover {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 1px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 303px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+}
+.bp4-start1720 .bp4-portfoliohangovercopy {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 1px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 510px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+}
+.bp4-start1720 .bp4-portfoliohangovercopy2 {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 1px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1016px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+}
+.bp4-start1720 .bp4-portfolio {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 40px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 336px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Light", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp4-start1720 .bp4-resume {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 40px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 563px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Light", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp4-start1720 .bp4-aboutme {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 40px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1054px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Light", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp4-start1720 .bp4-glassesright150 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 31px;
+  height              : 51px;
+  width               : 139px;
+  position            : absolute;
+  margin              : 0;
+  left                : 791px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-start1720 .bp4-rectanglecopy2 {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 0px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1223px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.bp4-start1720 .bp4-rectanglecopy2 {
+  pointer-events      : auto;
+}
+.bp4-start1720 .bp4-rectanglecopy2:hover {
+  opacity             : 1;
+}
+.bp4-start1720 .bp4-portfoliohangovercopy3 {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 1px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1223px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+}
+.bp4-start1720 .bp4-linkedin1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 40px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1268px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Light", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp4-start1720 .bp4-lightbulb {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 550px;
+  height              : 321px;
+  width               : 318px;
+  position            : absolute;
+  margin              : 0;
+  left                : 393px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.bp3-start {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 1208px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(71, 181, 250, 1.0);
+  opacity             : 1.0;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp3-start .bp3-hiiu2019mnick {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 247px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 199px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Libre Baskerville", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 70.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 87.0px;
+}
+.bp3-start .bp3-apassionateuxdesi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 359px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 197px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Libre Baskerville", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 50.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 63.0px;
+}
+.bp3-start .bp3-footer {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 1034px;
+  height              : 318px;
+  width               : 2199px;
+  position            : absolute;
+  margin              : 0;
+  left                : -423px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-start .bp3-navbar {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 112px;
+  width               : 1920px;
+  position            : absolute;
+  margin              : 0;
+  left                : -240px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-start .bp3-rectangle {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 0px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 163px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.bp3-start .bp3-rectangle {
+  pointer-events      : auto;
+}
+.bp3-start .bp3-rectangle:hover {
+  opacity             : 1;
+}
+.bp3-start .bp3-rectanglecopy {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 0px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 370px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.bp3-start .bp3-rectanglecopy {
+  pointer-events      : auto;
+}
+.bp3-start .bp3-rectanglecopy:hover {
+  opacity             : 1;
+}
+.bp3-start .bp3-rectanglecopy2 {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : -1px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1083px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.bp3-start .bp3-rectanglecopy2 {
+  pointer-events      : auto;
+}
+.bp3-start .bp3-rectanglecopy2:hover {
+  opacity             : 1;
+}
+.bp3-start .bp3-rectanglecopy3 {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 0px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 876px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.bp3-start .bp3-rectanglecopy3 {
+  pointer-events      : auto;
+}
+.bp3-start .bp3-rectanglecopy3:hover {
+  opacity             : 1;
+}
+.bp3-start .bp3-portfoliohangover {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 0px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 163px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+}
+.bp3-start .bp3-portfoliohangovercopy {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 0px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 370px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+}
+.bp3-start .bp3-portfoliohangovercopy2 {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 0px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 876px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+}
+.bp3-start .bp3-portfoliohangovercopy3 {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 0px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1083px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+}
+.bp3-start .bp3-portfolio {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 196px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Light", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp3-start .bp3-resume {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 423px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Light", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp3-start .bp3-aboutme {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 914px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Light", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp3-start .bp3-linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1128px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Light", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp3-start .bp3-glassesright150 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : 51px;
+  width               : 139px;
+  position            : absolute;
+  margin              : 0;
+  left                : 651px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-start .bp3-iconmonstrlinkedin5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1103px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 200px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-start .bp3-iconmonstrlinkedin5 .bp3-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-start .bp3-linkedin1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1106px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 244px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp3-start .bp3-lipbochudgmailcom {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1106px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 938px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp3-start .bp3-behance {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1106px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 499px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp3-start .bp3-iconmonstrbehance5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1103px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 455px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-start .bp3-iconmonstrbehance5 .bp3-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-start .bp3-iconmonstrgmail5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1103px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 894px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-start .bp3-iconmonstrgmail5 .bp3-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-start .bp3-lightbulb {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 578px;
+  height              : 321px;
+  width               : 318px;
+  position            : absolute;
+  margin              : 0;
+  left                : 163px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.bp2-start1092 {
+  width               : 100%;
+  min-width           : 1092px;
+  height              : 100vh;
+  min-height          : 1208px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(71, 181, 250, 1.0);
+  opacity             : 1.0;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp2-start1092 .bp2-navbar {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 112px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : -168px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-start1092 .bp2-portfolio {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 40px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 90px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Light", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp2-start1092 .bp2-resume {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 322px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Light", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp2-start1092 .bp2-aboutme {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 685px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Light", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp2-start1092 .bp2-linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 40px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 896px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Light", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp2-start1092 .bp2-hiiu2019mnick {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 225px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 81px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Libre Baskerville", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 70.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 87.0px;
+}
+.bp2-start1092 .bp2-apassionateuxdesi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 338px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 83px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Libre Baskerville", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 50.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 63.0px;
+}
+.bp2-start1092 .bp2-footer {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 1034px;
+  height              : 174px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : -168px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-start1092 .bp2-glassesright150 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 31px;
+  height              : 51px;
+  width               : 139px;
+  position            : absolute;
+  margin              : 0;
+  left                : 483px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-start1092 .bp2-iconmonstrlinkedin5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1100px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 91px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-start1092 .bp2-iconmonstrlinkedin5 .bp2-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-start1092 .bp2-linkedin1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1103px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 135px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp2-start1092 .bp2-lipbochudgmailcom {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1102px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 704px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp2-start1092 .bp2-behance {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1103px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 386px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp2-start1092 .bp2-iconmonstrbehance5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1100px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 342px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-start1092 .bp2-iconmonstrbehance5 .bp2-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-start1092 .bp2-iconmonstrgmail5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1099px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 660px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-start1092 .bp2-iconmonstrgmail5 .bp2-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-start1092 .bp2-lightbulb {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 556px;
+  height              : 321px;
+  width               : 318px;
+  position            : absolute;
+  margin              : 0;
+  left                : 57px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.bp1-start1920 {
+  width               : 100%;
+  min-width           : 1920px;
+  height              : 100vh;
+  min-height          : 1208px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(71, 181, 250, 1.0);
+  opacity             : 1.0;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp1-start1920 .bp1-lightbulb {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 550px;
+  height              : 321px;
+  width               : 318px;
+  position            : absolute;
+  margin              : 0;
+  left                : 410px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-start1920 .bp1-hiiu2019mnick {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 237px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 433px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Libre Baskerville", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 70.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 87.0px;
+}
+.bp1-start1920 .bp1-apassionateuxdesi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 340px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 437px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Libre Baskerville", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 50.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 63.0px;
+}
+.bp1-start1920 .bp1-footer {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 1034px;
+  height              : 354px;
+  width               : 2910px;
+  position            : absolute;
+  margin              : 0;
+  left                : -539px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-start1920 .bp1-navbar {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 112px;
+  width               : 2839px;
+  position            : absolute;
+  margin              : 0;
+  left                : -468px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-start1920 .bp1-rectangle {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 0px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 403px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-start1920 .bp1-rectangle {
+  pointer-events      : auto;
+}
+.bp1-start1920 .bp1-rectangle:hover {
+  opacity             : 1;
+}
+.bp1-start1920 .bp1-rectanglecopy {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 0px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 610px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-start1920 .bp1-rectanglecopy {
+  pointer-events      : auto;
+}
+.bp1-start1920 .bp1-rectanglecopy:hover {
+  opacity             : 1;
+}
+.bp1-start1920 .bp1-rectanglecopy2 {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : -1px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1323px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-start1920 .bp1-rectanglecopy2 {
+  pointer-events      : auto;
+}
+.bp1-start1920 .bp1-rectanglecopy2:hover {
+  opacity             : 1;
+}
+.bp1-start1920 .bp1-rectanglecopy3 {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 0px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1116px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-start1920 .bp1-rectanglecopy3 {
+  pointer-events      : auto;
+}
+.bp1-start1920 .bp1-rectanglecopy3:hover {
+  opacity             : 1;
+}
+.bp1-start1920 .bp1-portfoliohangover {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 0px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 403px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+}
+.bp1-start1920 .bp1-portfoliohangovercopy {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 0px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 610px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+}
+.bp1-start1920 .bp1-portfoliohangovercopy2 {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 0px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1116px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+}
+.bp1-start1920 .bp1-portfoliohangovercopy3 {
+  background-color    : rgba(71, 181, 250, 1.0);
+  top                 : 0px;
+  height              : 112px;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1323px;
+  transform           : rotate(0deg);
+  opacity             : 0.0;
+}
+.bp1-start1920 .bp1-portfolio {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 436px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Light", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp1-start1920 .bp1-resume {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 663px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Light", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp1-start1920 .bp1-aboutme {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1154px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Light", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp1-start1920 .bp1-linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1368px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Light", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp1-start1920 .bp1-glassesright150 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : 51px;
+  width               : 139px;
+  position            : absolute;
+  margin              : 0;
+  left                : 891px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-start1920 .bp1-iconmonstrlinkedin5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1102px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 440px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-start1920 .bp1-iconmonstrlinkedin5 .bp1-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-start1920 .bp1-linkedin1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1105px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 484px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp1-start1920 .bp1-lipbochudgmailcom {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1105px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1178px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp1-start1920 .bp1-behance {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1105px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 739px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp1-start1920 .bp1-iconmonstrbehance5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1102px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 695px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-start1920 .bp1-iconmonstrbehance5 .bp1-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-start1920 .bp1-iconmonstrgmail5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1102px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1134px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-start1920 .bp1-iconmonstrgmail5 .bp1-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+@media screen and (max-width: 1439px) {
+  .bp2-start1092 {
+    display             : block;
+  }
+  .bp3-start {
+    display             : none;
+  }
+  .bp4-start1720 {
+    display             : none;
+  }
+  .bp1-start1920 {
+    display             : none;
+  }
+}
+@media screen and (min-width: 1440px) and (max-width: 1719px) {
+  .bp2-start1092 {
+    display             : none;
+  }
+  .bp3-start {
+    display             : block;
+  }
+  .bp4-start1720 {
+    display             : none;
+  }
+  .bp1-start1920 {
+    display             : none;
+  }
+}
+@media screen and (min-width: 1720px) and (max-width: 1919px) {
+  .bp2-start1092 {
+    display             : none;
+  }
+  .bp3-start {
+    display             : none;
+  }
+  .bp4-start1720 {
+    display             : block;
+  }
+  .bp1-start1920 {
+    display             : none;
+  }
+}
+@media screen and (min-width: 1920px) {
+  .bp2-start1092 {
+    display             : none;
+  }
+  .bp3-start {
+    display             : none;
+  }
+  .bp4-start1720 {
+    display             : none;
+  }
+  .bp1-start1920 {
+    display             : block;
+  }
+}
