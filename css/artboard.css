@@ -1,0 +1,1414 @@
+@import url('https://fonts.googleapis.com/css?family=Muli:400');
+
+@font-face {
+                          font-family: "Muli-Regular_SemiBold";
+                          src: url('../fonts/Muli-VariableFont_wght.ttf') format("truetype");
+                        }
+                        
+.bp3-artboard {
+  width               : 100%;
+  min-width           : 1920px;
+  height              : 100vh;
+  min-height          : 1402px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp3-artboard .bp3-rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 254px;
+  width               : 2612px;
+  position            : absolute;
+  margin              : 0;
+  left                : -176px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-artboard .bp3-rectangle1 {
+  background-color    : rgba(91, 46, 127, 1.0);
+  top                 : 253px;
+  height              : 66px;
+  width               : 184px;
+  position            : absolute;
+  margin              : 0;
+  left                : 595px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-artboard .bp3-hiiu2019mnick {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 74px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 379px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_SemiBold", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 40.0px;
+}
+.bp3-artboard .bp3-mywork {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 266px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 399px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_SemiBold", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(170, 170, 170, 1.0);
+  text-align          : justify;
+  line-height         : 40.0px;
+}
+.bp3-artboard .bp3-aboutme {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 266px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 614px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_SemiBold", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 40.0px;
+}
+.bp3-artboard .bp3-iu2019maformerbioscie {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 114px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 379px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_SemiBold", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 40.0px;
+}
+.bp3-artboard .bp3-iu2019maformerbioscie .bp3-span1 {
+  
+}
+.bp3-artboard .bp3-iu2019maformerbioscie .bp3-span2 {
+  
+}
+.bp3-artboard .bp3-resume {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1363px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_Light", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 23.0px;
+}
+.bp3-artboard .bp3-linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1438px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_Light", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 23.0px;
+}
+.bp3-artboard .bp3-glassesright150 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 19px;
+  height              : 20px;
+  width               : 55px;
+  position            : absolute;
+  margin              : 0;
+  left                : 379px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-artboard .bp3-frame {
+  background-color    : rgba(111, 63, 149, 1.0);
+  top                 : 506px;
+  height              : 630px;
+  width               : 504px;
+  position            : absolute;
+  margin              : 0;
+  left                : 997px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-artboard .bp3-iu2019mabilingualliv {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 524px;
+  height              : auto;
+  width               : 605px;
+  position            : absolute;
+  margin              : 0;
+  left                : 379px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 25.0px;
+}
+.bp3-artboard .bp3-screenshot20190821at12008pm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 525px;
+  height              : 592px;
+  width               : 461px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1019px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-artboard .bp3-himynameisnick {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 378px;
+  height              : auto;
+  width               : 504px;
+  position            : absolute;
+  margin              : 0;
+  left                : 379px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 40.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.bp3-artboard .bp3-himynameisnick .bp3-span1 {
+  line-height         : 50.0px;
+}
+.bp3-artboard .bp3-himynameisnick .bp3-span2 {
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  line-height         : 27.0px;
+}
+.bp3-artboard .bp3-rectanglecopy11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1234px;
+  height              : 176px;
+  width               : 2458px;
+  position            : absolute;
+  margin              : 0;
+  left                : -237px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-artboard .bp3-iconmonstrlinkedin5copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1309px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 433px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-artboard .bp3-iconmonstrlinkedin5copy .bp3-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-artboard .bp3-linkedincopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1312px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 479px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 30.0px;
+}
+.bp3-artboard .bp3-lipbochudgmailcomcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1312px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1173px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp3-artboard .bp3-behancecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1312px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 734px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp3-artboard .bp3-iconmonstrbehance5copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1309px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 688px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-artboard .bp3-iconmonstrbehance5copy .bp3-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-artboard .bp3-iconmonstrgmail5copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1309px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1127px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-artboard .bp3-iconmonstrgmail5copy .bp3-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.bp2-artboard1 {
+  width               : 100%;
+  min-width           : 1710px;
+  height              : 100vh;
+  min-height          : 1402px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp2-artboard1 .bp2-rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 254px;
+  width               : 2612px;
+  position            : absolute;
+  margin              : 0;
+  left                : -274px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-artboard1 .bp2-rectangle1 {
+  background-color    : rgba(91, 46, 127, 1.0);
+  top                 : 253px;
+  height              : 66px;
+  width               : 184px;
+  position            : absolute;
+  margin              : 0;
+  left                : 497px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-artboard1 .bp2-hiiu2019mnick {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 74px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 281px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_SemiBold", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 40.0px;
+}
+.bp2-artboard1 .bp2-mywork {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 266px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 301px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_SemiBold", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(170, 170, 170, 1.0);
+  text-align          : justify;
+  line-height         : 40.0px;
+}
+.bp2-artboard1 .bp2-aboutme {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 266px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 516px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_SemiBold", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 40.0px;
+}
+.bp2-artboard1 .bp2-iu2019maformerbioscie {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 114px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 281px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_SemiBold", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 40.0px;
+}
+.bp2-artboard1 .bp2-iu2019maformerbioscie .bp2-span1 {
+  
+}
+.bp2-artboard1 .bp2-iu2019maformerbioscie .bp2-span2 {
+  
+}
+.bp2-artboard1 .bp2-resume {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1265px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_Light", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 23.0px;
+}
+.bp2-artboard1 .bp2-linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1340px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_Light", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 23.0px;
+}
+.bp2-artboard1 .bp2-glassesright150 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 19px;
+  height              : 20px;
+  width               : 55px;
+  position            : absolute;
+  margin              : 0;
+  left                : 281px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-artboard1 .bp2-frame {
+  background-color    : rgba(111, 63, 149, 1.0);
+  top                 : 506px;
+  height              : 630px;
+  width               : 504px;
+  position            : absolute;
+  margin              : 0;
+  left                : 899px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-artboard1 .bp2-iu2019mabilingualliv {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 524px;
+  height              : auto;
+  width               : 605px;
+  position            : absolute;
+  margin              : 0;
+  left                : 281px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 25.0px;
+}
+.bp2-artboard1 .bp2-screenshot20190821at12008pm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 525px;
+  height              : 592px;
+  width               : 461px;
+  position            : absolute;
+  margin              : 0;
+  left                : 921px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-artboard1 .bp2-himynameisnick {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 378px;
+  height              : auto;
+  width               : 504px;
+  position            : absolute;
+  margin              : 0;
+  left                : 281px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 40.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.bp2-artboard1 .bp2-himynameisnick .bp2-span1 {
+  line-height         : 50.0px;
+}
+.bp2-artboard1 .bp2-himynameisnick .bp2-span2 {
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  line-height         : 27.0px;
+}
+.bp2-artboard1 .bp2-rectanglecopy11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1234px;
+  height              : 176px;
+  width               : 2325px;
+  position            : absolute;
+  margin              : 0;
+  left                : -202px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-artboard1 .bp2-iconmonstrlinkedin5copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1309px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 335px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-artboard1 .bp2-iconmonstrlinkedin5copy .bp2-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-artboard1 .bp2-linkedincopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1312px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 381px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 30.0px;
+}
+.bp2-artboard1 .bp2-lipbochudgmailcomcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1312px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1075px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp2-artboard1 .bp2-behancecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1312px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 636px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp2-artboard1 .bp2-iconmonstrbehance5copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1309px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 590px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-artboard1 .bp2-iconmonstrbehance5copy .bp2-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-artboard1 .bp2-iconmonstrgmail5copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1309px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1029px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-artboard1 .bp2-iconmonstrgmail5copy .bp2-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.bp1-desktophdcopy {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 1426px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp1-desktophdcopy .bp1-rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 254px;
+  width               : 2612px;
+  position            : absolute;
+  margin              : 0;
+  left                : -407px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophdcopy .bp1-rectangle1 {
+  background-color    : rgba(91, 46, 127, 1.0);
+  top                 : 253px;
+  height              : 66px;
+  width               : 184px;
+  position            : absolute;
+  margin              : 0;
+  left                : 364px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophdcopy .bp1-hiiu2019mnick {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 74px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 148px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_SemiBold", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 40.0px;
+}
+.bp1-desktophdcopy .bp1-mywork {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 266px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 168px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_SemiBold", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(170, 170, 170, 1.0);
+  text-align          : justify;
+  line-height         : 40.0px;
+}
+.bp1-desktophdcopy .bp1-aboutme {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 266px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 383px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_SemiBold", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 40.0px;
+}
+.bp1-desktophdcopy .bp1-iu2019maformerbioscie {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 114px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 148px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_SemiBold", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 40.0px;
+}
+.bp1-desktophdcopy .bp1-iu2019maformerbioscie .bp1-span1 {
+  
+}
+.bp1-desktophdcopy .bp1-iu2019maformerbioscie .bp1-span2 {
+  
+}
+.bp1-desktophdcopy .bp1-resume {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1132px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_Light", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 23.0px;
+}
+.bp1-desktophdcopy .bp1-linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1207px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_Light", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 23.0px;
+}
+.bp1-desktophdcopy .bp1-glassesright150 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 19px;
+  height              : 20px;
+  width               : 55px;
+  position            : absolute;
+  margin              : 0;
+  left                : 148px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophdcopy .bp1-frame {
+  background-color    : rgba(111, 63, 149, 1.0);
+  top                 : 506px;
+  height              : 630px;
+  width               : 504px;
+  position            : absolute;
+  margin              : 0;
+  left                : 766px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophdcopy .bp1-iu2019mabilingualliv {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 524px;
+  height              : auto;
+  width               : 605px;
+  position            : absolute;
+  margin              : 0;
+  left                : 148px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 25.0px;
+}
+.bp1-desktophdcopy .bp1-screenshot20190821at12008pm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 525px;
+  height              : 592px;
+  width               : 461px;
+  position            : absolute;
+  margin              : 0;
+  left                : 788px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophdcopy .bp1-himynameisnick {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 378px;
+  height              : auto;
+  width               : 504px;
+  position            : absolute;
+  margin              : 0;
+  left                : 148px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 40.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.bp1-desktophdcopy .bp1-himynameisnick .bp1-span1 {
+  line-height         : 50.0px;
+}
+.bp1-desktophdcopy .bp1-himynameisnick .bp1-span2 {
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  line-height         : 27.0px;
+}
+.bp1-desktophdcopy .bp1-rectanglecopy11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1258px;
+  height              : 176px;
+  width               : 1460px;
+  position            : absolute;
+  margin              : 0;
+  left                : -10px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophdcopy .bp1-iconmonstrlinkedin5copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1333px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 200px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophdcopy .bp1-iconmonstrlinkedin5copy .bp1-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophdcopy .bp1-linkedincopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1336px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 246px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 30.0px;
+}
+.bp1-desktophdcopy .bp1-lipbochudgmailcomcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1336px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 940px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp1-desktophdcopy .bp1-behancecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1336px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 501px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp1-desktophdcopy .bp1-iconmonstrbehance5copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1333px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 455px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophdcopy .bp1-iconmonstrbehance5copy .bp1-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophdcopy .bp1-iconmonstrgmail5copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1333px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 894px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophdcopy .bp1-iconmonstrgmail5copy .bp1-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+@media screen and (max-width: 1709px) {
+  .bp1-desktophdcopy {
+    display             : block;
+  }
+  .bp2-artboard1 {
+    display             : none;
+  }
+  .bp3-artboard {
+    display             : none;
+  }
+}
+@media screen and (min-width: 1710px) and (max-width: 1919px) {
+  .bp1-desktophdcopy {
+    display             : none;
+  }
+  .bp2-artboard1 {
+    display             : block;
+  }
+  .bp3-artboard {
+    display             : none;
+  }
+}
+@media screen and (min-width: 1920px) {
+  .bp1-desktophdcopy {
+    display             : none;
+  }
+  .bp2-artboard1 {
+    display             : none;
+  }
+  .bp3-artboard {
+    display             : block;
+  }
+}

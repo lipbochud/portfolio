@@ -1,0 +1,2065 @@
+@import url('https://fonts.googleapis.com/css?family=Muli:400');
+
+@font-face {
+                          font-family: "Muli-Regular_SemiBold";
+                          src: url('../fonts/Muli-VariableFont_wght.ttf') format("truetype");
+                        }
+                        
+.bp3-artboard2 {
+  width               : 100%;
+  min-width           : 1920px;
+  height              : 100vh;
+  min-height          : 1330px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp3-artboard2 .bp3-rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 254px;
+  width               : 2677px;
+  position            : absolute;
+  margin              : 0;
+  left                : -242px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-artboard2 .bp3-rectangle1 {
+  background-color    : rgba(91, 46, 127, 1.0);
+  top                 : 253px;
+  height              : 66px;
+  width               : 169px;
+  position            : absolute;
+  margin              : 0;
+  left                : 378px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-artboard2 .bp3-hiiu2019mnick {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 74px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 378px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_SemiBold", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 40.0px;
+}
+.bp3-artboard2 .bp3-mywork {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 266px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 398px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_SemiBold", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 40.0px;
+}
+.bp3-artboard2 .bp3-aboutme {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 266px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 613px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_SemiBold", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(169, 169, 169, 1.0);
+  text-align          : justify;
+  line-height         : 40.0px;
+}
+.bp3-artboard2 .bp3-iu2019maformerbioscie {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 114px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 378px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_SemiBold", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 40.0px;
+}
+.bp3-artboard2 .bp3-iu2019maformerbioscie .bp3-span1 {
+  
+}
+.bp3-artboard2 .bp3-iu2019maformerbioscie .bp3-span2 {
+  
+}
+.bp3-artboard2 .bp3-resume {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1362px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_Light", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 23.0px;
+}
+.bp3-artboard2 .bp3-linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1437px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_Light", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 23.0px;
+}
+.bp3-artboard2 .bp3-headerbanner {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 372px;
+  height              : 156px;
+  width               : 529px;
+  position            : absolute;
+  margin              : 0;
+  left                : 378px;
+  border-radius       : 8px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-artboard2 .bp3-headerbanner .bp3-mask {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 156px;
+  width               : 529px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-artboard2 .bp3-headerbanner .bp3-clipper20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -79px;
+  height              : 315px;
+  width               : 529px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-artboard2 .bp3-anatomyarportfolio {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 364px;
+  height              : 176px;
+  width               : 549px;
+  position            : absolute;
+  margin              : 0;
+  left                : 961px;
+  border-radius       : 8px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-artboard2 .bp3-anatomyarportfolio .bp3-mask {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 176px;
+  width               : 549px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-artboard2 .bp3-anatomyarportfolio .bp3-anatomyarportfolio1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -15px;
+  height              : 196px;
+  width               : 574px;
+  position            : absolute;
+  margin              : 0;
+  left                : -20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-artboard2 .bp3-cloverprojectcover {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 682px;
+  height              : 176px;
+  width               : 549px;
+  position            : absolute;
+  margin              : 0;
+  left                : 368px;
+  border-radius       : 8px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-artboard2 .bp3-cloverprojectcover .bp3-mask {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 176px;
+  width               : 549px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-artboard2 .bp3-cloverprojectcover .bp3-cloverprojectcover1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : 182px;
+  width               : 532px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-artboard2 .bp3-rectanglecopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 520px;
+  height              : 129px;
+  width               : 549px;
+  position            : absolute;
+  margin              : 0;
+  left                : 368px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-artboard2 .bp3-rectanglecopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 520px;
+  height              : 129px;
+  width               : 549px;
+  position            : absolute;
+  margin              : 0;
+  left                : 961px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-artboard2 .bp3-rectanglecopy6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 838px;
+  height              : 129px;
+  width               : 549px;
+  position            : absolute;
+  margin              : 0;
+  left                : 368px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-artboard2 .bp3-clippercardappis {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 539px;
+  height              : auto;
+  width               : 521px;
+  position            : absolute;
+  margin              : 0;
+  left                : 384px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_Light", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.bp3-artboard2 .bp3-anatomyarisaconc {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 540px;
+  height              : auto;
+  width               : 521px;
+  position            : absolute;
+  margin              : 0;
+  left                : 979px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_Light", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.bp3-artboard2 .bp3-thisredesignandre {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 857px;
+  height              : auto;
+  width               : 521px;
+  position            : absolute;
+  margin              : 0;
+  left                : 384px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_Light", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.bp3-artboard2 .bp3-rectangle2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 593px;
+  height              : 36px;
+  width               : 145px;
+  position            : absolute;
+  margin              : 0;
+  left                : 570px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-artboard2 .bp3-rectanglecopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 593px;
+  height              : 36px;
+  width               : 145px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1163px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-artboard2 .bp3-rectanglecopy7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 911px;
+  height              : 36px;
+  width               : 145px;
+  position            : absolute;
+  margin              : 0;
+  left                : 570px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-artboard2 .bp3-viewproject {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 599px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 597px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_Light", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.bp3-artboard2 .bp3-viewproject1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 599px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1190px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_Light", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.bp3-artboard2 .bp3-viewproject2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 917px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 597px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_Light", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.bp3-artboard2 .bp3-glassesright150 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 19px;
+  height              : 20px;
+  width               : 55px;
+  position            : absolute;
+  margin              : 0;
+  left                : 378px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-artboard2 .bp3-formoreprojectsv {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1008px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 614px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_Light", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 40.0px;
+}
+.bp3-artboard2 .bp3-rectangle3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1162px;
+  height              : 176px;
+  width               : 3123px;
+  position            : absolute;
+  margin              : 0;
+  left                : -568px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-artboard2 .bp3-iconmonstrlinkedin5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1237px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 424px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-artboard2 .bp3-iconmonstrlinkedin5 .bp3-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-artboard2 .bp3-linkedin1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1240px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 470px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 30.0px;
+}
+.bp3-artboard2 .bp3-lipbochudgmailcom {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1240px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1164px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp3-artboard2 .bp3-behance {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1240px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 725px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp3-artboard2 .bp3-iconmonstrbehance5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1237px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 679px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-artboard2 .bp3-iconmonstrbehance5 .bp3-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-artboard2 .bp3-iconmonstrgmail5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1237px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1118px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-artboard2 .bp3-iconmonstrgmail5 .bp3-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.bp2-artboard3 {
+  width               : 100%;
+  min-width           : 1710px;
+  height              : 100vh;
+  min-height          : 1330px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp2-artboard3 .bp2-rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 254px;
+  width               : 2612px;
+  position            : absolute;
+  margin              : 0;
+  left                : -266px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-artboard3 .bp2-rectangle1 {
+  background-color    : rgba(91, 46, 127, 1.0);
+  top                 : 253px;
+  height              : 66px;
+  width               : 169px;
+  position            : absolute;
+  margin              : 0;
+  left                : 289px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-artboard3 .bp2-hiiu2019mnick {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 74px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 289px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_SemiBold", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 40.0px;
+}
+.bp2-artboard3 .bp2-mywork {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 266px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 309px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_SemiBold", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 40.0px;
+}
+.bp2-artboard3 .bp2-aboutme {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 266px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 524px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_SemiBold", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(169, 169, 169, 1.0);
+  text-align          : justify;
+  line-height         : 40.0px;
+}
+.bp2-artboard3 .bp2-iu2019maformerbioscie {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 114px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 289px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_SemiBold", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 40.0px;
+}
+.bp2-artboard3 .bp2-iu2019maformerbioscie .bp2-span1 {
+  
+}
+.bp2-artboard3 .bp2-iu2019maformerbioscie .bp2-span2 {
+  
+}
+.bp2-artboard3 .bp2-resume {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1273px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_Light", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 23.0px;
+}
+.bp2-artboard3 .bp2-linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1348px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_Light", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 23.0px;
+}
+.bp2-artboard3 .bp2-headerbanner {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 372px;
+  height              : 156px;
+  width               : 529px;
+  position            : absolute;
+  margin              : 0;
+  left                : 289px;
+  border-radius       : 8px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-artboard3 .bp2-headerbanner .bp2-mask {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 156px;
+  width               : 529px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-artboard3 .bp2-headerbanner .bp2-clipper20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -79px;
+  height              : 315px;
+  width               : 529px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-artboard3 .bp2-anatomyarportfolio {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 364px;
+  height              : 176px;
+  width               : 549px;
+  position            : absolute;
+  margin              : 0;
+  left                : 872px;
+  border-radius       : 8px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-artboard3 .bp2-anatomyarportfolio .bp2-mask {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 176px;
+  width               : 549px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-artboard3 .bp2-anatomyarportfolio .bp2-anatomyarportfolio1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -15px;
+  height              : 196px;
+  width               : 574px;
+  position            : absolute;
+  margin              : 0;
+  left                : -20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-artboard3 .bp2-cloverprojectcover {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 682px;
+  height              : 176px;
+  width               : 549px;
+  position            : absolute;
+  margin              : 0;
+  left                : 279px;
+  border-radius       : 8px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-artboard3 .bp2-cloverprojectcover .bp2-mask {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 176px;
+  width               : 549px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-artboard3 .bp2-cloverprojectcover .bp2-cloverprojectcover1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : 182px;
+  width               : 532px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-artboard3 .bp2-rectanglecopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 520px;
+  height              : 129px;
+  width               : 549px;
+  position            : absolute;
+  margin              : 0;
+  left                : 279px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-artboard3 .bp2-rectanglecopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 520px;
+  height              : 129px;
+  width               : 549px;
+  position            : absolute;
+  margin              : 0;
+  left                : 872px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-artboard3 .bp2-rectanglecopy6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 838px;
+  height              : 129px;
+  width               : 549px;
+  position            : absolute;
+  margin              : 0;
+  left                : 279px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-artboard3 .bp2-clippercardappis {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 539px;
+  height              : auto;
+  width               : 521px;
+  position            : absolute;
+  margin              : 0;
+  left                : 295px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_Light", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.bp2-artboard3 .bp2-anatomyarisaconc {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 540px;
+  height              : auto;
+  width               : 521px;
+  position            : absolute;
+  margin              : 0;
+  left                : 890px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_Light", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.bp2-artboard3 .bp2-thisredesignandre {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 857px;
+  height              : auto;
+  width               : 521px;
+  position            : absolute;
+  margin              : 0;
+  left                : 295px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_Light", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.bp2-artboard3 .bp2-rectangle2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 593px;
+  height              : 36px;
+  width               : 145px;
+  position            : absolute;
+  margin              : 0;
+  left                : 481px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-artboard3 .bp2-rectanglecopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 593px;
+  height              : 36px;
+  width               : 145px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1074px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-artboard3 .bp2-rectanglecopy7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 911px;
+  height              : 36px;
+  width               : 145px;
+  position            : absolute;
+  margin              : 0;
+  left                : 481px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-artboard3 .bp2-viewproject {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 599px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 508px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_Light", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.bp2-artboard3 .bp2-viewproject1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 599px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1101px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_Light", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.bp2-artboard3 .bp2-viewproject2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 917px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 508px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_Light", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.bp2-artboard3 .bp2-glassesright150 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 19px;
+  height              : 20px;
+  width               : 55px;
+  position            : absolute;
+  margin              : 0;
+  left                : 289px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-artboard3 .bp2-formoreprojectsv {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1008px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 525px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_Light", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 40.0px;
+}
+.bp2-artboard3 .bp2-rectangle3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1162px;
+  height              : 176px;
+  width               : 1964px;
+  position            : absolute;
+  margin              : 0;
+  left                : -116px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-artboard3 .bp2-iconmonstrlinkedin5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1237px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 335px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-artboard3 .bp2-iconmonstrlinkedin5 .bp2-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-artboard3 .bp2-linkedin1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1240px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 381px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 30.0px;
+}
+.bp2-artboard3 .bp2-lipbochudgmailcom {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1240px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1075px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp2-artboard3 .bp2-behance {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1240px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 636px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp2-artboard3 .bp2-iconmonstrbehance5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1237px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 590px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-artboard3 .bp2-iconmonstrbehance5 .bp2-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-artboard3 .bp2-iconmonstrgmail5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1237px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1029px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-artboard3 .bp2-iconmonstrgmail5 .bp2-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.bp1-desktophd {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 1271px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp1-desktophd .bp1-rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 254px;
+  width               : 2612px;
+  position            : absolute;
+  margin              : 0;
+  left                : -407px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophd .bp1-rectangle1 {
+  background-color    : rgba(91, 46, 127, 1.0);
+  top                 : 253px;
+  height              : 66px;
+  width               : 169px;
+  position            : absolute;
+  margin              : 0;
+  left                : 148px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophd .bp1-hiiu2019mnick {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 74px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 148px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_SemiBold", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 40.0px;
+}
+.bp1-desktophd .bp1-mywork {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 266px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 168px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_SemiBold", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 40.0px;
+}
+.bp1-desktophd .bp1-aboutme {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 266px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 383px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_SemiBold", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(169, 169, 169, 1.0);
+  text-align          : justify;
+  line-height         : 40.0px;
+}
+.bp1-desktophd .bp1-iu2019maformerbioscie {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 114px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 148px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_SemiBold", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 40.0px;
+}
+.bp1-desktophd .bp1-iu2019maformerbioscie .bp1-span1 {
+  
+}
+.bp1-desktophd .bp1-iu2019maformerbioscie .bp1-span2 {
+  
+}
+.bp1-desktophd .bp1-resume {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1132px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_Light", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 23.0px;
+}
+.bp1-desktophd .bp1-linkedin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1207px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_Light", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : justify;
+  line-height         : 23.0px;
+}
+.bp1-desktophd .bp1-headerbanner {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 372px;
+  height              : 156px;
+  width               : 529px;
+  position            : absolute;
+  margin              : 0;
+  left                : 148px;
+  border-radius       : 8px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophd .bp1-headerbanner .bp1-mask {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 156px;
+  width               : 529px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophd .bp1-headerbanner .bp1-clipper20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -79px;
+  height              : 315px;
+  width               : 529px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophd .bp1-anatomyarportfolio {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 364px;
+  height              : 176px;
+  width               : 549px;
+  position            : absolute;
+  margin              : 0;
+  left                : 731px;
+  border-radius       : 8px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophd .bp1-anatomyarportfolio .bp1-mask {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 176px;
+  width               : 549px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophd .bp1-anatomyarportfolio .bp1-anatomyarportfolio1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -15px;
+  height              : 196px;
+  width               : 574px;
+  position            : absolute;
+  margin              : 0;
+  left                : -20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophd .bp1-cloverprojectcover {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 682px;
+  height              : 176px;
+  width               : 549px;
+  position            : absolute;
+  margin              : 0;
+  left                : 138px;
+  border-radius       : 8px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophd .bp1-cloverprojectcover .bp1-mask {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 176px;
+  width               : 549px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophd .bp1-cloverprojectcover .bp1-cloverprojectcover1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : 182px;
+  width               : 532px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophd .bp1-rectanglecopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 520px;
+  height              : 129px;
+  width               : 549px;
+  position            : absolute;
+  margin              : 0;
+  left                : 138px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophd .bp1-rectanglecopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 520px;
+  height              : 129px;
+  width               : 549px;
+  position            : absolute;
+  margin              : 0;
+  left                : 731px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophd .bp1-rectanglecopy6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 838px;
+  height              : 129px;
+  width               : 549px;
+  position            : absolute;
+  margin              : 0;
+  left                : 138px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophd .bp1-clippercardappis {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 539px;
+  height              : auto;
+  width               : 521px;
+  position            : absolute;
+  margin              : 0;
+  left                : 154px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_Light", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.bp1-desktophd .bp1-anatomyarisaconc {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 540px;
+  height              : auto;
+  width               : 521px;
+  position            : absolute;
+  margin              : 0;
+  left                : 749px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_Light", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.bp1-desktophd .bp1-thisredesignandre {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 857px;
+  height              : auto;
+  width               : 521px;
+  position            : absolute;
+  margin              : 0;
+  left                : 154px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_Light", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.bp1-desktophd .bp1-rectangle2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 593px;
+  height              : 36px;
+  width               : 145px;
+  position            : absolute;
+  margin              : 0;
+  left                : 340px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophd .bp1-rectanglecopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 593px;
+  height              : 36px;
+  width               : 145px;
+  position            : absolute;
+  margin              : 0;
+  left                : 933px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophd .bp1-rectanglecopy7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 911px;
+  height              : 36px;
+  width               : 145px;
+  position            : absolute;
+  margin              : 0;
+  left                : 340px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophd .bp1-viewproject {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 599px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 367px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_Light", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.bp1-desktophd .bp1-viewproject1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 599px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 960px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_Light", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.bp1-desktophd .bp1-viewproject2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 917px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 367px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_Light", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 20.0px;
+}
+.bp1-desktophd .bp1-glassesright150 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 19px;
+  height              : 20px;
+  width               : 55px;
+  position            : absolute;
+  margin              : 0;
+  left                : 148px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophd .bp1-rectangle3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1103px;
+  height              : 176px;
+  width               : 1460px;
+  position            : absolute;
+  margin              : 0;
+  left                : -10px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophd .bp1-iconmonstrlinkedin5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1178px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 200px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophd .bp1-iconmonstrlinkedin5 .bp1-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophd .bp1-linkedin1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1181px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 246px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 30.0px;
+}
+.bp1-desktophd .bp1-lipbochudgmailcom {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1181px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 940px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp1-desktophd .bp1-behance {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1181px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 501px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Avenir-Book", Helvetica, Arial, serif;
+  font-size           : 24.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 33.0px;
+}
+.bp1-desktophd .bp1-iconmonstrbehance5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1178px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 455px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophd .bp1-iconmonstrbehance5 .bp1-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophd .bp1-iconmonstrgmail5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1178px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 894px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophd .bp1-iconmonstrgmail5 .bp1-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 37px;
+  width               : 37px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophd .bp1-formoreprojectsv {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1008px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 384px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Muli-Regular_Light", Helvetica, Arial, serif;
+  font-size           : 32.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 40.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+@media screen and (max-width: 1709px) {
+  .bp1-desktophd {
+    display             : block;
+  }
+  .bp2-artboard3 {
+    display             : none;
+  }
+  .bp3-artboard2 {
+    display             : none;
+  }
+}
+@media screen and (min-width: 1710px) and (max-width: 1919px) {
+  .bp1-desktophd {
+    display             : none;
+  }
+  .bp2-artboard3 {
+    display             : block;
+  }
+  .bp3-artboard2 {
+    display             : none;
+  }
+}
+@media screen and (min-width: 1920px) {
+  .bp1-desktophd {
+    display             : none;
+  }
+  .bp2-artboard3 {
+    display             : none;
+  }
+  .bp3-artboard2 {
+    display             : block;
+  }
+}
